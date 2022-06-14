@@ -1,0 +1,5 @@
+.DS_Store
+lab/lab02_new/data/data.csv
+.ipynb_checkpoints
+*.swo
+*.swp
