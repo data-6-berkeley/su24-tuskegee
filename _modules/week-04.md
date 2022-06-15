@@ -1,27 +1,19 @@
 ---
-title: Week 4 — Python Functions and Control
+title: Week 4 (EVANS 6)
 ---
 
-Jul 25
-: **13**{: .label} Functions (II), Comparisons, Booleans
-  <!--: [Slides](#) &#8226; [Code](#)-->
-: *Optional Reading*
+M Jul 11
+: **Scholars**{: .label .label-lab} Guest speakers: Society and Ethics
 
-Jul 26
-: **14**{: .label} Control
-  <!--: [Slides](#) &#8226; [Code](#)-->
-: **Lab 6**{: .label .label-lab} [Functions](#)
+Tu Jul 12
+: **Group**{: .label .label-group} EDA
 
-Jul 27
-: **15**{: .label} For Loops
-  <!--: [Slides](#) &#8226; [Code](#)-->
+W Jul 13
+: **Scholars**{: .label .label-lab} Midpoint discussions
+: **Project**{: .label .label-exam} Midpoint Presentations in class
 
-Jul 28
-: **16**{: .label} Advanced For-Loops
-  <!--: [Slides](#) &#8226; [Code](#)-->
-: **Lab 7**{: .label .label-lab} [Python Fundamentals](#)
+Th Jul 14
+: **Scholars**{: .label .label-discussion} (AAPB 155) Thriving in STEM
 
-Jul 29
-: **Discussion 4**{: .label .label-discussion} Privacy
-: **17**{: .label} Quiz Review
-: **Homework 7**{: .label .label-homework} [Python Fundamentals](#) &nbsp;**Due Aug 2 @ 11:00PM**
+F Jul 15
+: **Group**{: .label .label-group} EDA, Society

@@ -6,7 +6,9 @@ description: >-
     2-Week Pre-Data 6 Curriculum
 ---
 
-Please check the [Schedule](../schedule) page for precise times.
+# Pre-Data 6 Coding Bootcamp
+
+All days start at 10am. Please check the [Weekly Events](../schedule) page for precise times.
 {% for module in site.bootcamp %}
 {{ module }}
 {% endfor %}

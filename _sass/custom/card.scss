@@ -41,11 +41,15 @@
       color: white;
     }
     &.label-discussion {
-      background-color: $purple-000;
+      background-color: #c5b3e6;
       color: white;
     }
     &.label-exam {
       background-color: $yellow-300;
+      color: white;
+    }
+    &.label-group {
+      background-color: #0d6efd;
       color: white;
     }
   }

@@ -1,21 +1,15 @@
 ---
-title: Week 1 — Introduction to Python
+title: Week 1 (SOCS 174)
 ---
 
-Jul 5
-: **1**{: .label} Introduction, Course Overview, Jupyter Basics
-  : [Slides](#) &#8226; [Code](#)
-: *Optional Reading*
+M Jun 20
+: **No class** (Academic Holiday)
 
-Jul 6
-: **2**{: .label} Variables and Types
-  <!--: [Slides](#) &#8226; [Code](#)-->
-: **Lab 1**{: .label .label-lab} [Using Jupyter Notebooks](#)
+Tu Jun 21
+: **Group**{: .label .label-group} Introduction + Team Building
 
-Jul 7
-: **3**{: .label} NumPy and Data
-  <!--: [Slides](#) &#8226; [Code](#)-->
-: **Homework 1**{: .label .label-homework} [Introduction to Python](#) &nbsp;**Due Jul 14 @ 11:00PM**
+W Jun 22
+: **Office Hours**{:.label .label-homework} Data Science/Computing
 
-Jul 8
-: **Discussion 1**{: .label .label-discussion} Health Data
+F Jun 24
+: **Group**{: .label .label-group} What are research and pedagogy? Reading research papers

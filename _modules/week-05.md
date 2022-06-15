@@ -1,24 +1,19 @@
 ---
-title: Week 5 — More Python
+title: Week 5 (EVANS 6)
 ---
 
-Aug 1
-: **Quiz**{: .label .label-exam} Quiz 2: Tables, Functions and Loops
-: **Lab 8**{: .label .label-lab} [For Loops](#)
+M Jul 18
+: **Scholars**{: .label .label-lab} Guest speakers: Society and Ethics
 
-Aug 2
-: **18**{: .label} File Formats, Dictionaries (I)
-  <!--: [Slides](#) &#8226; [Code](#)-->
+Tu Jul 19
+: **Group**{: .label .label-group} Society
 
-Aug 3
-: **19**{: .label} Dictionaries (II)
-  <!--: [Slides](#) &#8226; [Code](#)-->
-: **Lab 9**{: .label .label-lab} [Dictionaries](#)
+W Jul 20
+: **Scholars**{: .label .label-lab} Pedagogy: How to write computational problems
 
-Aug 4
-: **20**{: .label} Case Study, Maps
-  <!--: [Slides](#) &#8226; [Code](#)-->
+Th Jul 21
+: **Scholars**{: .label .label-discussion} (AAPB 155) Thriving in STEM
 
-Aug 5
-: **Discussion 5**{: .label .label-discussion} Data in Elections
-: **Homework 5**{: .label .label-homework} [Data Visualization](#) &nbsp;**Due Aug 10 @ 11:00PM**
+F Jul 22
+: **Group**{: .label .label-group} Society, Start Lab
+: **Project**{: .label .label-exam} Project 2: Society Due

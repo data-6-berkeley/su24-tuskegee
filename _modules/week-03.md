@@ -1,27 +1,18 @@
 ---
-title: Week 3 — Tables
+title: Week 3 (EVANS 6)
 ---
 
-Jul 18
-: **Quiz**{: .label .label-exam} Quiz 1: Python and Visualization
-: **9**{: .label} Row Manipulation
-  <!--: [Slides](#) &#8226; [Code](#)-->
-: *Optional Reading*
+M Jul 4
+: **No class** (Academic Holiday)
 
-Jul 19
-: **10**{: .label} Row Methods, Joining Tables
-  <!--: [Slides](#) &#8226; [Code](#)-->
-: **Lab 4**{: .label .label-lab} [Tables](#)
+Tu Jul 5
+: **Group**{: .label .label-group} Intro to dataset
 
-Jul 20
-: **11**{: .label} Grouping, Pivoting, Functions (I)
-  <!--: [Slides](#) &#8226; [Code](#)-->
+W Jul 6
+: **Scholars**{: .label .label-lab} EDA with Spreadsheets
 
-Jul 21
-: **12**{: .label} Applying
-  <!--: [Slides](#) &#8226; [Code](#)-->
-: **Lab 5**{: .label .label-lab} [More Table Methods](#)
+Th Jul 7
+: **Scholars**{: .label .label-lab} (AAPB 155) Thriving in STEM
 
-Jul 22
-: **Discussion 3**{: .label .label-discussion} Algorithmic Bias
-: **Homework 3**{: .label .label-homework} [Data Visualization](#) &nbsp;**Due Jul 28 @ 11:00PM**
+F Jul 1
+: **Group**{: .label .label-group} EDA

@@ -1,24 +1,19 @@
 ---
-title: Week 6 — Simulations and Conclusion
+title: Week 6 (EVANS 6)
 ---
 
-Aug 8
-: **21**{: .label} Case Study
-  <!--: [Slides](#) &#8226; [Code](#)-->
-: *Optional Reading*
+M Jul 25
+: **Scholars**{: .label .label-lab} Guest speaker
 
-Aug 9
-: **22**{: .label} Randomness and Simulation, Finding and Using Data
-  <!--: [Slides](#) &#8226; [Code](#)-->
-: **Lab 10**{: .label .label-lab} [Simultation and Sampling](#)
+Tu Jul 26
+: **Group**{: .label .label-group} Lab
+: **Project**{: .label .label-exam} Checkpoint Due
 
-Aug 10
-: **23**{: .label} Conclusion and Next Steps
-  <!--: [Slides](#) &#8226; [Code](#)-->
+W Jul 27
+: **Scholars**{: .label .label-lab} Check-in; Guest Speaker
 
-Aug 11
-: **24**{: .label} Final Review
-  <!--: [Slides](#) &#8226; [Code](#)-->
+Th Jul 28
+: **Scholars**{: .label .label-discussion} (AAPB 155) Thriving in STEM
 
-Aug 12
-: **Exam**{: .label .label-exam} Final Exam (In-Class)
+F Jul 29
+: **Group**{: .label .label-group} Lab

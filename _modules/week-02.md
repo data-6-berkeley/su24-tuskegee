@@ -1,28 +1,19 @@
 ---
-title: Week 2 — Visualizing Data
+title: Week 2 (SOCS 174)
 ---
 
-Jul 11
-: **4**{: .label} Table Fundamentals, Introduction to Visualization
-  <!--: [Slides](#) &#8226; [Code](#)-->
-: *Optional Reading*
+M Jun 27
+: **Office Hours**{:.label .label-homework} Data Science/Computing
 
-Jul 12
-: **5**{: .label} Visualizing Categorical Variables
-  <!--: [Slides](#) &#8226; [Code](#)-->
-: **Lab 2**{: .label .label-lab} [Visualization Fundamentals](#)
+Tu Jun 28
+: **Group**{: .label .label-group} Project reading
 
-Jul 13
-: **6**{: .label} Visualizing Numerical Variables
-  <!--: [Slides](#) &#8226; [Code](#)-->
+W Jun 22
+: **Scholars**{: .label .label-lab} (1:30-3pm, Blum Hall B-100) Human Contexts and Ethics in Data Science Education
 
+Th Jun 30
+: **Scholars**{: .label .label-lab} (3pm-4pm, SOCS 174) Principles of Data Science
 
-Jul 14
-: **7**{: .label} Visualizing Two Numerical Variables
-  <!--: [Slides](#) &#8226; [Code](#)-->
-: **Lab 3**{: .label .label-lab} [More Visualization](#)
-
-Jul 15
-: **Discussion 2**{: .label .label-discussion} Human Contexts and Ethics
-: **8**{: .label} Quiz Review
-: **Homework 2**{: .label .label-homework} [Data Visualization](#) &nbsp;**Due Jul 21 @ 11:00PM**
+F Jul 1
+: **Group**{: .label .label-group} Project reading
+: **Project**{: .label .label-exam} Project 1: Recall Due
