@@ -92,20 +92,14 @@
       @extend .fs-2;
     }
 
-    &.lecture {
-      background-color: $blue-100;
+    &.group-work {
+      background-color: $blue-000;
     }
 
     &.lab {
       background-color: $green-100;
     }
 
-    &.office-hours {
-      background-color: $red-000;
-    }
-    &.coffee-chats {
-      background-color: $yellow-200;
-    }
     &.discussion {
       background-color: $purple-000;
     }

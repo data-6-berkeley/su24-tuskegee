@@ -12,7 +12,7 @@ W Jul 6
 : **Scholars**{: .label .label-lab} EDA with Spreadsheets
 
 Th Jul 7
-: **Scholars**{: .label .label-lab} (AAPB 155) Thriving in STEM
+: **Scholars**{: .label .label-discussion} (AAPB 155) Thriving in STEM
 
 F Jul 1
 : **Group**{: .label .label-group} EDA
