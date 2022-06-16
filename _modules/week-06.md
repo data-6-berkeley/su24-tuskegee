@@ -7,7 +7,7 @@ M Jul 25
 
 Tu Jul 26
 : **Group**{: .label .label-group} Lab
-: **Project**{: .label .label-exam} Checkpoint Due
+: **Project**{: .label .label-exam} Project 3 Checkpoint Due
 
 W Jul 27
 : **Scholars**{: .label .label-lab} Check-in; Guest Speaker

@@ -4,7 +4,7 @@ title: Weekly Events
 description: The weekly event schedule.
 ---
 
-# Weekly Schedule
+# Weekly Events
 
 The below schedule is also available as a [Google Sheet](https://docs.google.com/spreadsheets/d/1JxJs3GKICAgg9RDqkirgMeBI7uEDZdD2cchVWLakRWY/edit?usp=sharing){:target="_blank"}.
 
