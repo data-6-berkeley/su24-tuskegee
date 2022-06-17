@@ -15,8 +15,8 @@ seo:
 UC Berkeley, Summer 2022
 {: .mb-2 .fs-6 .text-grey-dk-000 }
 
-{: .mb-2 }
-<div>
+{: .mb-2}
+<div class="col-md-6">
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 <div class="role">
   {% for staffer in instructors %}
@@ -24,6 +24,12 @@ UC Berkeley, Summer 2022
   {% endfor %}
 </div>
 </div>
+
+[Coding Bootcamp]({{site.baseurl}}/bootcamp){: .btn .btn-purple .mr-2}
+[RPD Seminar]({{site.baseurl}}/rpd){: .btn .btn-green}
+<br/>
+[Data 8](http://data8.org/su22/){: .btn .btn-outline}
+[Data 6](http://data6.org/su22/){: .btn .btn-outline}
 
 **Room:** SOCS 174 (through July 1); Evans 6 (July 5th onwards)
 
@@ -40,8 +46,4 @@ UC Berkeley, Summer 2022
 {% assign announcements = site.announcements | reverse %}
 {% for announcement in announcements %}
 {{ announcement }}
-{% endfor %}
-
-{% for module in site.modules %}
-{{ module }}
 {% endfor %}

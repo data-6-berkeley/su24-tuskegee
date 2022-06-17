@@ -9,6 +9,7 @@ description: >-
 # Pre-Data 6 Coding Bootcamp
 
 All days start at 10am. Please check the [Weekly Events](../schedule) page for precise times.
+
 {% for module in site.bootcamp %}
 {{ module }}
 {% endfor %}

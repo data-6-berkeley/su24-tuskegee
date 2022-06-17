@@ -1,4 +1,5 @@
 ---
+name: bootcamp2
 title: Week 2 (SOCS 174, 10am)
 ---
 

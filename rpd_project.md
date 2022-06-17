@@ -4,6 +4,7 @@ title: RPD Group Project
 nav_order: 2
 description: >-
     8-week RPD Seminar
+nav_exclude: true
 ---
 
 # Research, Pedagogy, and Discovery Group Project
