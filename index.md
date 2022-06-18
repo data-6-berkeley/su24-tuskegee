@@ -16,7 +16,7 @@ UC Berkeley, Summer 2022
 {: .mb-2 .fs-6 .text-grey-dk-000 }
 
 {: .mb-2}
-<div class="col-md-6">
+<div>
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 <div class="role">
   {% for staffer in instructors %}
@@ -47,3 +47,9 @@ UC Berkeley, Summer 2022
 {% for announcement in announcements %}
 {{ announcement }}
 {% endfor %}
+
+The below schedule is also available as a [Google Sheet](https://docs.google.com/spreadsheets/d/1JxJs3GKICAgg9RDqkirgMeBI7uEDZdD2cchVWLakRWY/edit?usp=sharing){:target="_blank"}.
+
+Click on the tabs below to switch between weeks.
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQsJ3hH0mhN6M6hdG7g6n76WPiIyB7gK0bfgr7QbmAdE7Oz72v3wPOGg4Ep39GEyVX0eDmY7wyhsO8j/pubhtml?widget=true&amp;headers=false" width=1100 height=600></iframe>
