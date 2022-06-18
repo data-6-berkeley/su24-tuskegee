@@ -8,7 +8,7 @@ Welcome! This website will serve as a resource for you as you move through this 
 We recommend bookmarking this website for easy access.
 
 <b>See you this Monday June 21 at 4pm at Memorial Glade!</b><br/>
-Class starts Tuesday at 10am; we'll meet at Blackwell Hall at 9:30 and walk over.
+Class starts Tuesday at 10am; we'll meet at Blackwell Hall at 9:45 am and walk over.
 
 Please see the sidebar for the pre-Data 6 Coding Bootcamp link.
 
