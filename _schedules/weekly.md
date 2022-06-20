@@ -15,33 +15,33 @@ schedule:
         class: lab
         start: 2:10 PM
         end: 4:00 PM
-        location: 212 Wheeler
+        location: (Week1-Week2) SOCS 174<br/> (Week3-Week8) EVANS 6
   - name: Tuesday
     events:
       - name: Group Work
         class: group-work
         start: 3:10 PM
         end: 4:00 PM
-        location: 212 Wheeler
+        location: (Week1-Week2) SOCS 174<br/> (Week3-Week8) EVANS 6
   - name: Wednesday
     events:
       - name: Scholars Lecture
         class: lab
         start: 2:10 PM
         end: 4:00 PM
-        location: 212 Wheeler
+        location: (Week1-Week2) SOCS 174<br/> (Week3-Week8) EVANS 6
   - name: Thursday
     events:
       - name: Scholars Lecture
         class: discussion
-        start: 2:10 PM
-        end: 4:00 PM
-        location: 212 Wheeler
+        start: 3:10 PM
+        end: 4:30 PM
+        location: (Week2) SOCS 174<br/> (Week3-Week8) AAPB 155
   - name: Friday
     events:
       - name: Group Work
         class: group-work
         start: 1:10 PM
         end: 4:00 PM
-        location: 105 & 130 Dwinelle
+        location: (Week1-Week2) SOCS 174<br/> (Week3-Week8) EVANS 6
 ---

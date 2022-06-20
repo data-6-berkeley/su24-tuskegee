@@ -1,6 +1,6 @@
 ---
 name: bootcamp1
-title: Week 1 (SOCS 174, 10am)
+title: Week 1 (SOCS 174)
 ---
 
 M Jun 20

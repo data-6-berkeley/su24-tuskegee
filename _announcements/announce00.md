@@ -17,7 +17,7 @@ Additionally, please make sure you have access to the following course resources
 1. [RPD Slack](https://rpd-tuskegee-berkeley.slack.com)
 1. [DataHub](TBD)
 
-If you don't have access to any of the above websites, please email <a>yanlisa@eecs.berkeley.edu</a>.
+You will need to login to your UC Berkeley email to access the above resources. If you don't have access to any of the above websites, please email <a>yanlisa@eecs.berkeley.edu</a>.
 
 See you soon!<br/>Lisa
 
