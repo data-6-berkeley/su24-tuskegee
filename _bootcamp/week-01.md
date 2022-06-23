@@ -20,8 +20,8 @@ W Jun 22
 
 Th Jun 23
 : [AM] **3**{: .label} Print and Control
-  : [Slides](https://cs61a.org/assets/slides/02-Functions.pdf)
+  : [Slides](https://docs.google.com/presentation/d/1VVsWCyFdxQ-MJNrEiX0l0YJz0pgK3ixBv8UnqeHnA1k/edit?usp=sharing){: target="_blank"} &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22-rpd&urlpath=tree%2Fsu22-rpd%2Flecture%2Flec03%2Flec03.ipynb&branch=main){:target="_blank"}
 : *Optional Reading*: [1.5.4 Conditional Statements](http://composingprograms.com/pages/14-designing-functions.html)
 
 F Jun 24
-: [AM] **Lab 2**{: .label .label-lab} [Lab 2: Control](https://cs61a.org/lab/lab01/)
+: [AM] **Lab 2**{: .label .label-lab} [Lab 2: Control](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22-rpd&urlpath=tree%2Fsu22-rpd%2Flab%2Flab02%2Flab02-control.ipynb&branch=main){:target="_blank"}
