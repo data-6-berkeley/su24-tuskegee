@@ -3,7 +3,7 @@ title: Week 4 (EVANS 6)
 ---
 
 M Jul 11
-: **Scholars**{: .label .label-lab} Guest speakers: Society and Ethics
+: **Scholars**{: .label .label-lab} Guest speaker: Dave Harding, Professor of Sociology, D-Lab
 
 Tu Jul 12
 : **Group**{: .label .label-group} EDA

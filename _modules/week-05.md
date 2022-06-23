@@ -3,7 +3,7 @@ title: Week 5 (EVANS 6)
 ---
 
 M Jul 18
-: **Scholars**{: .label .label-lab} Guest speakers: Society and Ethics
+: **Scholars**{: .label .label-lab} Guest speaker: Ari Edmundson, Human Contexts and Ethics
 
 Tu Jul 19
 : **Group**{: .label .label-group} Society

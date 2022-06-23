@@ -10,7 +10,7 @@ Tu Aug 2
 : **Project**{: .label .label-exam} Project 3: Lab due
 
 W Aug 3
-: **Scholars**{: .label .label-lab} Guest speaker
+: **Scholars**{: .label .label-lab} Guest speaker: John DeNero, Teaching Professor  of EECS
 
 Th Aug 4
 : **Scholars**{: .label .label-discussion} (AAPB 155) Thriving in STEM
