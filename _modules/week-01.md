@@ -12,4 +12,4 @@ W Jun 22
 : **Office Hours**{:.label .label-homework} Data Science/Computing
 
 F Jun 24
-: **Group**{: .label .label-group} What are research and pedagogy? Reading research papers
+: **Group**{: .label .label-group} [What is research? Reading research papers](https://docs.google.com/presentation/d/1OZlzbT76UR76kI_OjvDrkFvAjSrjFn2RfqEsOLy4P7Q/edit?usp=sharing){: target="_blank"}
