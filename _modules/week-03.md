@@ -1,5 +1,6 @@
 ---
 title: Week 3 (EVANS 6)
+weekNumber: 3
 ---
 
 M Jul 4

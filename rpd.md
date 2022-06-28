@@ -4,7 +4,7 @@ title: Research, Pedagogy, and Discovery Seminar
 nav_order: 2
 description: >-
     8-week RPD Seminar
-currWeekNumber: 1
+currWeekNumber: 2
 ---
 
 # Research, Pedagogy, and Discovery Seminar
@@ -22,5 +22,6 @@ Subject to change. Jump to current week [here](#week-{{page.currWeekNumber}}) fo
 {% endfor %}
 
 {% for module in site.modules %}
+<a name="week-{{module.weekNumber}}"></a>
 {{ module }}
 {% endfor %}

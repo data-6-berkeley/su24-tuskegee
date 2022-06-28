@@ -1,5 +1,6 @@
 ---
 title: Week 7 (EVANS 6)
+weekNumber: 7
 ---
 
 M Aug 1

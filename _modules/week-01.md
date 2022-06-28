@@ -1,5 +1,6 @@
 ---
 title: Week 1 (SOCS 174)
+weekNumber: 1
 ---
 
 M Jun 20
@@ -13,3 +14,4 @@ W Jun 22
 
 F Jun 24
 : **2**{: .label} **Group**{: .label .label-group} [What is research? Reading research papers](https://docs.google.com/presentation/d/1OZlzbT76UR76kI_OjvDrkFvAjSrjFn2RfqEsOLy4P7Q/edit?usp=sharing){: target="_blank"}
+: **Project**{: .label .label-exam} [Project 1: Recall]({{site.baseurl}}/rpd_project/#project-1-reading-data-science-and-social-science-literature){:target="_blank"} released

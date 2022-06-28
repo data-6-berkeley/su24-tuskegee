@@ -1,5 +1,6 @@
 ---
 title: Week 5 (EVANS 6)
+weekNumber: 5
 ---
 
 M Jul 18

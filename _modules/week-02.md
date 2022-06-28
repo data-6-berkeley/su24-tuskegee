@@ -1,5 +1,6 @@
 ---
 title: Week 2 (SOCS 174)
+weekNumber: 2
 ---
 
 M Jun 27
@@ -16,4 +17,4 @@ Th Jun 30
 
 F Jul 1
 : **Group**{: .label .label-group} Project reading
-: **Project**{: .label .label-exam} Project 1: Recall Due
+: **Project**{: .label .label-exam} [Project 1: Recall]({{site.baseurl}}/rpd_project/#project-1-reading-data-science-and-social-science-literature){:target="_blank"} due (tentative)

@@ -1,5 +1,6 @@
 ---
 title: Week 4 (EVANS 6)
+weekNumber: 4
 ---
 
 M Jul 11

@@ -1,5 +1,6 @@
 ---
 title: Week 6 (EVANS 6)
+weekNumber: 6
 ---
 
 M Jul 25

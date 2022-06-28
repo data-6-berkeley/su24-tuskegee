@@ -1,5 +1,6 @@
 ---
 title: Week 8 (EVANS 6)
+weekNumber: 8
 ---
 
 M Aug 8

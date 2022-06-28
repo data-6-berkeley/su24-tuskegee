@@ -46,28 +46,61 @@ We expect there to be little commitment outside of the scheduled 4 group work ho
 
 ---
 
-## [Project 1] Reading Data Science Literature
+## [Project 1] Reading Data Science and Social Science Literature
 
-### Discussion Readings
+* **Due**			Friday July 1, end of seminar (tentatively)
+* **Expected Work Time** 		During seminar on Tuesday and Friday.
+    * Tuesday: Get through half of topic readings and pedagogy readings.
+    * Friday: submit Google Slides on Slack. If we need more time, we’ll extend the deadline. Lisa will be there Friday at 1pm.
+* **Topic Assignments**: [Group Assignments](https://docs.google.com/spreadsheets/d/1HH9ncaIU69iWyEfuqA3rMO_1Ooe8AZIwrRRfvTzcRvU/edit#gid=0)
+
+
+### Required Readings
+**Topic-based**: [https://tinyurl.com/rpd-project-list](https://tinyurl.com/rpd-project-list)
+
+**Pedagogy-based**:
+
+* [Tools for Teaching](https://drive.google.com/file/d/1pisWNHtrfKiBd_8a-vsBuqv0sdK6QB2S/view?usp=sharing), (p. 97-p.101, PDF 115-119). Read up to and including “Starting a Discussion."
+* How to Write Learning Outcomes [https://teaching.berkeley.edu/resources/design/course-level-learning-goalsoutcomes](https://teaching.berkeley.edu/resources/design/course-level-learning-goalsoutcomes)
+* (Optional) Deborah Nolan and Sara Stoudt. [Communicating with Data: The Art of Writing for Data Science](https://drive.google.com/file/d/1pisWNHtrfKiBd_8a-vsBuqv0sdK6QB2S/view?usp=sharing). 2001. (log in with [UC Berkeley library proxy](https://guides.lib.berkeley.edu/ezproxy/browser-bookmarklet))
+
+### Deliverable: Google Slides
 {:.no_toc}
 
-List 2-3 readings accessible to a student audience that will illuminate a particular dataset in the context of society. The readings should describe the topic itself, the current public opinion, any historical context, and a recent research study using the dataset.
+Your Google Slide deck should have at least the following:
 
-### Discussion Question 1: Information Recall
-{:.no_toc}
+* Slide: History of the topic
+* Slide: Current public opinion
+* Slide: Research example
+* Slide: Bio of a prominent researcher in the field at the intersection of society and data science
+* Slide: Lesson plan for discussion activity
 
-Pose a discussion question that encourages students to discuss what they learned from the above readings. In addition, write a lesson plan for an instructor that includes the main takeaway point for students from this exercise.
+**These slides will not be presented anywhere!** The slides format is just to organize your thoughts. Feel free to add slides as necessary.
+
+### Lesson Plan for Discussion Activity
+
+Outline a 15-minute introductory discussion that encourages students to discuss what they learned from the above readings. In addition, write a lesson plan for an instructor that includes the main takeaway point for students from this exercise. Discussion will be 50 minutes total, so this is the opening 1/4th of class. There should be several parts of this lesson:
+
+* Reading list for students
+* Lesson plan (see below):
+    * How will you introduce the discussion section?
+    * How will you structure the discussion of the question(s)? In groups, pairs, as a class? Will you have time to review as a class?
+    * Share the main takeaway you will repeat for the students at the end of activity.
+
+To answer the above, you should present a slide addressing the following table:
+
+| Category | Description |
+| --- | --- |
+| **Student Required Readings** | Pick at most 3 readings that students should read prior to discussion that will illuminate a particular dataset in the context of society. This may be a subset of the ones we provided, or you can pick your own from reputable sources.<br/>The readings should describe the topic itself, the current public opinion, any historical context, and a recent research study using the dataset.<br/>Readings should take about 1 hour, maximum. |
+| **Introduction**<br/>(5 minutes) | How will you introduce the discussion section? |
+| **Recall Activity**<br/>(10 minutes) | Pose a question you to get students positioned and warmed up to discuss. It often involves students “recalling” what was in their required readings. | 
+| **Activity structure** | How will you structure the discussion of this question(s)? In small groups, pairs, as a class? Will you have time to review as a class before or after the activity? |
+| **Learning Goal/Outcome** | Write a sentence for the instructor-facing lesson plan, e.g., “By the end of this activity, students will be able to…” |
+| **Main Takeaway**<br/>(2 minutes) | Share the main student-facing takeaway that you will repeat for the students at the end of activity. | 
 
 ### Submission
-{:.no_toc}
 
-Google Slides with at least 5 slides:
-* History of the topic
-* Current public opinion
-* Research example
-* Discussion question
-* Lesson plan
-
+Send the Google Slides through Slack.
 
 
 
