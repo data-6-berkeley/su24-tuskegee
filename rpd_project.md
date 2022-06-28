@@ -48,18 +48,25 @@ We expect there to be little commitment outside of the scheduled 4 group work ho
 
 ## [Project 1] Reading Data Science and Social Science Literature
 
-* **Due**			Friday July 1, end of seminar (tentatively)
-* **Expected Work Time** 		During seminar on Tuesday and Friday.
-    * Tuesday: Get through half of topic readings and pedagogy readings.
-    * Friday: submit Google Slides on Slack. If we need more time, we’ll extend the deadline. Lisa will be there Friday at 1pm.
-* **Topic Assignments**: [Group Assignments](https://docs.google.com/spreadsheets/d/1HH9ncaIU69iWyEfuqA3rMO_1Ooe8AZIwrRRfvTzcRvU/edit#gid=0)
+<ul>
+<li><a href="#required-readings" id="markdown-toc-required-readings">Required Readings</a></li>
+<li><a href="#lesson-plan-for-discussion-activity" id="markdown-toc-lesson-plan-for-discussion-activity">Lesson Plan for Discussion Activity</a></li>
+<li><a href="#submission" id="markdown-toc-submission">Submission</a></li>
+</ul>
+
+**Due**:			Friday July 1, end of seminar (tentatively)
+
+**Expected Work Time**: 		During seminar on Tuesday and Friday.
+  * Tuesday: Get through half of topic readings and pedagogy readings.
+  * Friday: submit Google Slides on Slack. If we need more time, we’ll extend the deadline. Lisa will be there Friday at 1pm.
+
+**Topic Assignments**: [Group Assignments](https://docs.google.com/spreadsheets/d/1HH9ncaIU69iWyEfuqA3rMO_1Ooe8AZIwrRRfvTzcRvU/edit#gid=0)
 
 
 ### Required Readings
-**Topic-based**: [https://tinyurl.com/rpd-project-list](https://tinyurl.com/rpd-project-list)
+Topic-based: [https://tinyurl.com/rpd-project-list](https://tinyurl.com/rpd-project-list)
 
-**Pedagogy-based**:
-
+Pedagogy-based:
 * [Tools for Teaching](https://drive.google.com/file/d/1pisWNHtrfKiBd_8a-vsBuqv0sdK6QB2S/view?usp=sharing), (p. 97-p.101, PDF 115-119). Read up to and including “Starting a Discussion."
 * How to Write Learning Outcomes [https://teaching.berkeley.edu/resources/design/course-level-learning-goalsoutcomes](https://teaching.berkeley.edu/resources/design/course-level-learning-goalsoutcomes)
 * (Optional) Deborah Nolan and Sara Stoudt. [Communicating with Data: The Art of Writing for Data Science](https://drive.google.com/file/d/1pisWNHtrfKiBd_8a-vsBuqv0sdK6QB2S/view?usp=sharing). 2001. (log in with [UC Berkeley library proxy](https://guides.lib.berkeley.edu/ezproxy/browser-bookmarklet))
