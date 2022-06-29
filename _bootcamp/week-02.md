@@ -16,13 +16,14 @@ Tu Jun 28
 
 W Jun 29
 : [AM] **5**{: .label} Higher Order Functions
-  : [Slides](https://cs61a.org/assets/slides/04-Higher-Order_Functions.pdf) &#8226; [Code](#)
+  : [Slides](https://docs.google.com/presentation/d/1LcsF00764i2LxBe4-oSUdMHOAQp2r5u8YgEk6DKgc_I/edit?usp=sharing){: target="_blank"} &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22-rpd&urlpath=tree%2Fsu22-rpd%2Flecture%2Flec05%2Flec05.ipynb&branch=main){: target="_blank"}
+: [AM] **Lab 4A**{: .label .label-lab} [Lab 4A](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu22-rpd&urlpath=tree%2Fsu22-rpd%2Flab%2Flab04a%2Flab04a-higher-order-functions.ipynb&branch=main){:target="_blank"}
 
 
 Th Jun 30
 : [AM] **6**{: .label} More Higher Order Functions
   : [Slides](https://cs61a.org/assets/slides/07-Function_Examples.pdf) &#8226; [Code](#)
-: [PM] **Lab 4**{: .label .label-lab} [Higher-Order Functions](https://cs61a.org/lab/lab02/)
+: [PM] **Lab 4B**{: .label .label-lab} [Higher-Order Functions](https://cs61a.org/lab/lab02/)
 
 F Jul 1
 : [AM] **Lab 4**{: .label .label-lab} Finish Lab 4
