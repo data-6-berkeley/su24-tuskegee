@@ -70,7 +70,7 @@ Topic-based: [https://tinyurl.com/rpd-project-list](https://tinyurl.com/rpd-proj
 
 Pedagogy-based:
 * [Tools for Teaching](https://drive.google.com/file/d/1pisWNHtrfKiBd_8a-vsBuqv0sdK6QB2S/view?usp=sharing), (p. 97-p.101, PDF 115-119). Read up to and including “Starting a Discussion."
-* How to Write Learning Outcomes [https://teaching.berkeley.edu/resources/design/course-level-learning-goalsoutcomes](https://teaching.berkeley.edu/resources/design/course-level-learning-goalsoutcomes)
+* How to Write Learning Outcomes [https://teaching.berkeley.edu/resources/design/course-level-learning-goalsoutcomes](https://teaching.berkeley.edu/resources/design/course-level-learning-goalsoutcomes){:target="_blank"}
 * (Optional) Deborah Nolan and Sara Stoudt. [Communicating with Data: The Art of Writing for Data Science](https://drive.google.com/file/d/1pisWNHtrfKiBd_8a-vsBuqv0sdK6QB2S/view?usp=sharing). 2001. (log in with [UC Berkeley library proxy](https://guides.lib.berkeley.edu/ezproxy/browser-bookmarklet))
 
 ### Deliverable: Google Slides and Presentation
@@ -104,7 +104,7 @@ To answer the above, you should present a slide addressing the following table:
 | **Introduction**<br/>(5 minutes) | How will you introduce the discussion section? |
 | **Recall Activity**<br/>(10 minutes) | Pose a question you to get students positioned and warmed up to discuss. It often involves students “recalling” what was in their required readings. | 
 | **Activity structure** | How will you structure the discussion of this question(s)? In small groups, pairs, as a class? Will you have time to review as a class before or after the activity? |
-| **Learning Goal/Outcome** | Write a sentence for the instructor-facing lesson plan, e.g., “By the end of this activity, students will be able to…” |
+| **Learning Goal/Outcome** | Write a sentence for the instructor-facing lesson plan, e.g., “By the end of this activity, students will be able to…” (see [Action Verbs](https://teaching.berkeley.edu/resources/design/course-level-learning-goalsoutcomes){:target="_blank"}) |
 | **Main Takeaway**<br/>(2 minutes) | Share the main student-facing takeaway that you will repeat for the students at the end of activity. | 
 
 ### Submission
