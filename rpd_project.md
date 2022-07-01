@@ -54,11 +54,13 @@ We expect there to be little commitment outside of the scheduled 4 group work ho
 <li><a href="#submission" id="markdown-toc-submission">Submission</a></li>
 </ul>
 
-**Due**:			Friday July 1, end of seminar (tentatively)
+**Due**:			Friday July 8, end of seminar (tentatively)
 
-**Expected Work Time**: 		During seminar on Tuesday and Friday.
-  * Tuesday: Get through half of topic readings and pedagogy readings.
-  * Friday: submit Google Slides on Slack. If we need more time, we’ll extend the deadline. Lisa will be there Friday at 1pm.
+**Expected Work Time**: 		(Updated 7/1) During seminar on Tuesday and Friday. 
+  * Tuesday 6/28: Get through half of topic readings and pedagogy readings.
+  * Friday 7/1: Build Google Slides (up through lesson plan) and share on Slack.
+  * Tuesday 7/5: Work through lesson plan and finish slides.
+  * Friday 7/8: Deliver presentations and submit Google Slides.
 
 **Topic Assignments**: [Group Assignments](https://docs.google.com/spreadsheets/d/1HH9ncaIU69iWyEfuqA3rMO_1Ooe8AZIwrRRfvTzcRvU/edit#gid=0)
 
@@ -71,7 +73,7 @@ Pedagogy-based:
 * How to Write Learning Outcomes [https://teaching.berkeley.edu/resources/design/course-level-learning-goalsoutcomes](https://teaching.berkeley.edu/resources/design/course-level-learning-goalsoutcomes)
 * (Optional) Deborah Nolan and Sara Stoudt. [Communicating with Data: The Art of Writing for Data Science](https://drive.google.com/file/d/1pisWNHtrfKiBd_8a-vsBuqv0sdK6QB2S/view?usp=sharing). 2001. (log in with [UC Berkeley library proxy](https://guides.lib.berkeley.edu/ezproxy/browser-bookmarklet))
 
-### Deliverable: Google Slides
+### Deliverable: Google Slides and Presentation
 {:.no_toc}
 
 Your Google Slide deck should have at least the following:
@@ -82,7 +84,7 @@ Your Google Slide deck should have at least the following:
 * Slide: Bio of a prominent researcher in the field at the intersection of society and data science
 * Slide: Lesson plan for discussion activity
 
-**These slides will not be presented anywhere!** The slides format is just to organize your thoughts. Feel free to add slides as necessary.
+**Presentation**: <b>Updated Fri 7/1:</b> You will present these slides to the other groups on Friday, July 8. The presentation should be **10 minutes**, and every group member should present. <del><b>These slides will not be presented anywhere!</b> The slides format is just to organize your thoughts. Feel free to add slides as necessary.</del>
 
 ### Lesson Plan for Discussion Activity
 
@@ -107,7 +109,7 @@ To answer the above, you should present a slide addressing the following table:
 
 ### Submission
 
-Send the Google Slides through Slack.
+Send the Google Slides through Slack. Also deliver a presentation to the seminar as above.
 
 
 
