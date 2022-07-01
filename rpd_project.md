@@ -76,7 +76,7 @@ Pedagogy-based:
 ### Deliverable: Google Slides and Presentation
 {:.no_toc}
 
-Your Google Slide deck should have at least the following:
+Your Google Slide deck should have at least the following (max 15 slides):
 
 * Slide: History of the topic
 * Slide: Current public opinion
@@ -88,7 +88,7 @@ Your Google Slide deck should have at least the following:
 
 ### Lesson Plan for Discussion Activity
 
-Outline a 15-minute introductory discussion that encourages students to discuss what they learned from the above readings. In addition, write a lesson plan for an instructor that includes the main takeaway point for students from this exercise. Discussion will be 50 minutes total, so this is the opening 1/4th of class. There should be several parts of this lesson:
+Outline a 15-minute introductory discussion that encourages students to discuss what they learned from the above readings. In particular, write a lesson plan for an instructor that includes the main takeaway point for students from this exercise. Discussion will be 50 minutes total, so this is the opening 1/4th of class. There should be several parts of this lesson:
 
 * Reading list for students
 * Lesson plan (see below):
