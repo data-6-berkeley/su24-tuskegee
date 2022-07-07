@@ -4,7 +4,7 @@ weekNumber: 7
 ---
 
 M Aug 1
-: **Scholars**{: .label .label-lab} Guest speaker
+: **Scholars**{: .label .label-lab} Pedagogy: How to write computational problems
 
 Tu Aug 2
 : **Group**{: .label .label-group} Lab

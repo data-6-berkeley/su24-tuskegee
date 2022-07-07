@@ -10,7 +10,7 @@ Tu Jul 19
 : **Group**{: .label .label-group} Society
 
 W Jul 20
-: **Scholars**{: .label .label-lab} Pedagogy: How to write computational problems
+: **Scholars**{: .label .label-lab} Guest speaker: Charis Thompson, Chancellor's Professor and Associate Dean of CDSS
 
 Th Jul 21
 : **Scholars**{: .label .label-discussion} (AAPB 155) Thriving in STEM
