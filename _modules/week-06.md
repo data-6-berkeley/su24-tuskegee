@@ -11,7 +11,7 @@ Tu Jul 26
 : **Project**{: .label .label-exam} Project 3 Checkpoint Due
 
 W Jul 27
-: **Scholars**{: .label .label-lab} Guest Speaker: James Rue, School of Journalism
+: **Scholars**{: .label .label-lab} Guest Speaker: James Rue, Associate Dean, School of Journalism
 : Check-ins
 
 Th Jul 28
