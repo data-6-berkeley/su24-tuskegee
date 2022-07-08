@@ -4,7 +4,7 @@ weekNumber: 6
 ---
 
 M Jul 25
-: **Scholars**{: .label .label-lab} Guest speaker
+: **Scholars**{: .label .label-lab} Coffee Chat
 
 Tu Jul 26
 : **Group**{: .label .label-group} Lab
