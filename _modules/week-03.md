@@ -20,3 +20,4 @@ F Jul 8
 : **Group**{: .label .label-group}  **Project 1**{: .label .label-exam} Presentations
   : [Project 1 Specifications]({{site.baseurl}}/rpd_project/#project-1-reading-data-science-and-social-science-literature){:target="_blank"}
 : **Project 2**{: .label .label-exam} Intro to dataset
+  : [Project 2 Specifications]({{site.baseurl}}/rpd_project/#project-2-exploratory-data-analysis){: target="_blank"}

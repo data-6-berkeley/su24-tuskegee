@@ -115,15 +115,22 @@ Send the Google Slides through Slack. Also deliver a presentation to the seminar
 
 ---
 
-## [Presentation] Mid-Point Presentation, Scholars only
-* Present Project 1
-* And a visualization from Exploratory Data Analysis
+## [Project 2] Exploratory Data Analysis
 
+**Due**:			Friday July 15, end of seminar (tentatively)
+
+**Expected Work Time**:
+  * Friday 7/8: Look through data and get through half of questions.
+  * Tuesday 7/12: Explore rest of questions, begin looking at own questions (at least two). Start compiling Google Slides with findings by Friday.
+  * Friday 7/15: Get slides checked off.
+
+**Questions**: [link](https://docs.google.com/document/d/1GlyS391W3f79-NSMZeQP4BsiMvKa2QGPCsx7ZZyBjiI/edit?usp=sharing){: target="_blank"}
+**Data**: [Google Drive link](https://drive.google.com/drive/folders/1cRWxkl6S7JtfvQNpP1Xq_ttGCV-MM5Xi?usp=sharing){: target="_blank"}
 
 
 ---
 
-## [Project 2] Social and Ethical Implications of Data
+## [Project 3] Social and Ethical Implications of Data
 
 ### Discussion Question 2: Social and Behavioral Science Methodology
 {:.no_toc}
@@ -149,7 +156,7 @@ TBD
 
 ---
 
-## [Project 3] Constructing computing problems
+## [Project 4] Constructing computing problems
 
 Build a Jupyter notebook that has both the question/skeleton code and solutions for the two exercises below.
 
