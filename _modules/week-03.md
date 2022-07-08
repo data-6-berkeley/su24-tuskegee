@@ -11,8 +11,7 @@ Tu Jul 5
   : [Project 1 Specifications]({{site.baseurl}}/rpd_project/#project-1-reading-data-science-and-social-science-literature){:target="_blank"}
 
 W Jul 6
-: **Scholars**{: .label .label-lab} EDA with Spreadsheets
-: **2**{: .label} **Scholars**{: .label .label-lab} [EDA with Spreadsheets](https://docs.google.com/presentation/d/1Ofl9qju_o6b-vUHrVVAO2ucjc4MqeJ4iochP0cfSihs/edit?usp=sharing){: target="_blank"}
+: **3**{: .label} **Scholars**{: .label .label-lab} [EDA with Spreadsheets](https://docs.google.com/presentation/d/1Ofl9qju_o6b-vUHrVVAO2ucjc4MqeJ4iochP0cfSihs/edit?usp=sharing){: target="_blank"}
 
 Th Jul 7
 : **Scholars**{: .label .label-discussion} (AAPB 155) Thriving in STEM

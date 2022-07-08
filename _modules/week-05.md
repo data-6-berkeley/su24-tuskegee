@@ -16,5 +16,5 @@ Th Jul 21
 : **Scholars**{: .label .label-discussion} (AAPB 155) Thriving in STEM
 
 F Jul 22
-: **Group**{: .label .label-group} Society, Start Lab
-: **Project**{: .label .label-exam} Project 2: Society Due
+: **Group**{: .label .label-group} **Project 3**{: .label .label-exam} Due (Checkoff)
+: **Project 4**{: .label .label-exam} Lab, Specs Released

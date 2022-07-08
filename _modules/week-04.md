@@ -10,11 +10,12 @@ Tu Jul 12
 : **Group**{: .label .label-group} EDA
 
 W Jul 13
-: **Scholars**{: .label .label-lab} Midpoint discussions
-: **Project**{: .label .label-exam} Midpoint Presentations in class
+: **Scholars**{: .label .label-lab} Human Contexts and Ethics Reading
 
 Th Jul 14
 : **Scholars**{: .label .label-discussion} (AAPB 155) Thriving in STEM
 
 F Jul 15
 : **Group**{: .label .label-group} EDA, Society
+: **Project 2**{: .label .label-exam} Due (Checkoff)
+: **Project 3**{: .label .label-exam} Society, Specs Released

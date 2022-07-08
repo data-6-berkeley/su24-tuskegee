@@ -8,7 +8,7 @@ M Aug 1
 
 Tu Aug 2
 : **Group**{: .label .label-group} Lab
-: **Project**{: .label .label-exam} Project 3: Lab due
+: **Project 4**{: .label .label-exam} Due
 
 W Aug 3
 : **Scholars**{: .label .label-lab} Guest speaker: John DeNero, Teaching Professor  of EECS

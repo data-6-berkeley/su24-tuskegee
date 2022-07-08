@@ -14,7 +14,7 @@ schedule:
       - name: Scholars Lecture
         class: lab
         start: 2:10 PM
-        end: 4:00 PM
+        end: 3:00 PM
         location: (Week1-Week2) SOCS 174<br/> (Week3-Week8) EVANS 6
   - name: Tuesday
     events:
@@ -28,7 +28,7 @@ schedule:
       - name: Scholars Lecture
         class: lab
         start: 2:10 PM
-        end: 4:00 PM
+        end: 3:00 PM
         location: (Week1-Week2) SOCS 174<br/> (Week3-Week8) EVANS 6
   - name: Thursday
     events:
