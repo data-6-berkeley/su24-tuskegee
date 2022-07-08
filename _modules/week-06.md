@@ -4,7 +4,7 @@ weekNumber: 6
 ---
 
 M Jul 25
-: **Scholars**{: .label .label-lab} Coffee Chat
+: **Scholars**{: .label .label-lab} Coffee Chat: Hikari Murayama, PhD student, Energy and Resources
 
 Tu Jul 26
 : **Group**{: .label .label-group} Lab
