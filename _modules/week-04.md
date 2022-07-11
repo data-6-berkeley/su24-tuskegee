@@ -15,6 +15,7 @@ Tu Jul 12
 
 W Jul 13
 : **Scholars**{: .label .label-lab} Human Contexts and Ethics Reading
+  : ["Digital Natives"](https://drive.google.com/file/d/1UZQTHCE5nlj-zva-FNmJmAjVmDVmiLQY/view?usp=sharing){: target="_blank"}
 
 Th Jul 14
 : **Scholars**{: .label .label-discussion} (AAPB 155) Thriving in STEM
