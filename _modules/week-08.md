@@ -1,5 +1,5 @@
 ---
-title: Week 8 (EVANS 6)
+title: Week 8
 weekNumber: 8
 ---
 

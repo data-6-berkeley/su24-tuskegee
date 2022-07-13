@@ -1,5 +1,5 @@
 ---
-title: Week 4 (EVANS 6)
+title: Week 4
 weekNumber: 4
 ---
 
@@ -9,6 +9,7 @@ M Jul 11
   : [Why Data Science Needs Feminism](https://drive.google.com/file/d/1L3rYafoG3IBYknTAe33Lft7BeqkCVxQ1/view?usp=sharing){: target="_blank"}
   <br/>[Video Intro to Case Study](https://drive.google.com/file/d/1YyzJmQR96vlkqSf73tdo_RnGTRAWi5ZW/view?usp=sharing){: target="_blank"}
   <br/> [Case Study Sheet](https://drive.google.com/file/d/1LesYn7mALiTqjQWkRr31wEWQ9yOxAJ-M/view?usp=sharing){:target="_blank"}
+  <br/> [Lecture Slides](https://drive.google.com/file/d/1qb-VdXp8hhQUgn3iSgtFznQq3nyIc87h/view?usp=sharing){:target="_blank"}
 
 Tu Jul 12
 : **Group**{: .label .label-group} EDA

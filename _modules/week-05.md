@@ -1,10 +1,11 @@
 ---
-title: Week 5 (EVANS 6)
+title: Week 5
 weekNumber: 5
 ---
 
 M Jul 18
 : **Scholars**{: .label .label-lab} Guest speaker: Ari Edmundson, Human Contexts and Ethics
+  : ["Digital Natives"](https://drive.google.com/file/d/1UZQTHCE5nlj-zva-FNmJmAjVmDVmiLQY/view?usp=sharing){: target="_blank"}
 
 Tu Jul 19
 : **Group**{: .label .label-group} Society

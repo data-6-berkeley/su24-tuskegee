@@ -1,5 +1,5 @@
 ---
-title: Week 6 (EVANS 6)
+title: Week 6
 weekNumber: 6
 ---
 
