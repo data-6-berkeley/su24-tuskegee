@@ -4,7 +4,7 @@ title: RPD Group Project
 nav_order: 2
 description: >-
     8-week RPD Seminar
-nav_exclude: true
+nav_exclude: false
 ---
 
 # Research, Pedagogy, and Discovery Group Project
@@ -127,32 +127,63 @@ Send the Google Slides through Slack. Also deliver a presentation to the seminar
 **Questions**: [link](https://docs.google.com/document/d/1GlyS391W3f79-NSMZeQP4BsiMvKa2QGPCsx7ZZyBjiI/edit?usp=sharing){: target="_blank"}
 **Data**: [Google Drive link](https://drive.google.com/drive/folders/1cRWxkl6S7JtfvQNpP1Xq_ttGCV-MM5Xi?usp=sharing){: target="_blank"}
 
+---
+
+## [Project 3] Exploratory Data Analysis, Python
+
+**Due**:			Friday July 29, middle of seminar (tentatively)
+
+**Expected Work Time**:
+  * Tuesday 7/19: Guest speaker; finish Colab setup; get slides checked off
+  * Friday 7/22: Reproduce (see Note) 2 figures from Google Sheets. UC Berkeley UGSIs switch to teaching role so that Tuskegee Scholars do bulk of programming
+  * Tuesday 7/26: Guest speaker; reproduce all of figures from Google Sheets, and start exploring 2 new figures or tables in Python. UC Berkeley UGSIs continue to teach.
+  * Friday 7/29: Get slides and code checked off (Deb and Lisa to sit down and review code with each Tuskegee Scholar)
+
+**Note**: The `datascience` library has different plotting styles from Google Sheets. When "reproducing"  figure/plot, we expect that you will take considerable time getting the right tables and columns for plotting, then choosing the right arguments for `datascience` library functions. Here are the function reference sheets for [Data 8](http://data8.org/su22/python-reference.html){: target="_blank"} and [Data 6](https://data6.org/su22/reference/){:target="_blank"}.
+
+It is less important to reproduce the formatting of the plot-- in fact doing so requires advanced plotting knowledge beyond the scope of Data 6/Data 8.
 
 ---
 
-## [Project 3] Social and Ethical Implications of Data
+## [Project 4] Social and Ethical Implications of Data
 
 ### Discussion Question 2: Social and Behavioral Science Methodology
 {:.no_toc}
 
-Pick 3-4 variables in the dataset and describe its conceptualization (from concept to variable definition) and operationalization (measurement and data collection).
+**Due**:			(n/a, bundled into final presentation)
 
-### Discussion Question 3: Ethics and implications of responsibility
-{:.no_toc}
+**Expected Work Time**:
+  * Tuesday 7/19: Guest speaker; finish Colab setup; get slides checked off
+  * Friday 7/22: Reproduce 2 figures from Google Sheets. UC Berkeley UGSIs switch to teaching role so that Tuskegee Scholars do bulk of programming
+  * Tuesday 7/26: Guest speaker; start exploring new figure
+  * Friday 7/29: Get slides and code checked off (Deb and Lisa to sit down and review code with each Tuskegee Scholar)
 
-How were the data collectors/scientists connected to the population of interest? How may the historical context have impacted the data collection, reports, and policy decisions?
+Questions:
+* Pick 3-4 variables in the dataset and describe its conceptualization (from concept to variable definition) and operationalization (measurement and data collection).
+* How were the data collectors/scientists connected to the population of interest? How may the historical context have impacted the data collection, reports, and policy decisions?
 
 ### Lesson plan details
 {:.no_toc}
 
 Describe particular norms an instructor should establish during this discussion, and what role the discussion facilitator should play. Are there any key terms a student should remember? How can an instructor guide the conversation away from criticism and towards constructive design?
 
-### *Optional Readings*
-{:.no_toc}
 
-TBD
+---
+
+## [Presentation] Final Presentation
+
+15 minutes per group
+* Discussion activity
+    * Required readings
+    * Three discussion questions (Projects 1 and 4)
+    * Instructor-facing Lesson Plans
+* EDA
+    * Python figures only
+    * Note which functions or methods used from datascience library or from Python
+* Thoughts and reflections
 
 
+<!--
 
 ---
 
@@ -173,19 +204,4 @@ Use 1-2 datascience module functions to construct a plot that demonstrates a fac
 
 Compute a rate, proportion, or statistic that uses loops and/or conditional statements that demonstrates a facet of the data in the context of the findings from readings/discussion activities.
 
-
-
----
-
-## [Presentation] Final Presentation
-
-10 minutes per group
-* Brief recap of topic
-* Discussion activity
-    * Required readings
-    * Three discussion questions (Projects 1 and 2)
-    * Instructor-facing Lesson Plans
-* Lab activity
-    * Two lab questions (Project 3)
-    * Computational concept tested
-* Thoughts and reflections
+-->

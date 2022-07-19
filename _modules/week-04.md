@@ -22,6 +22,5 @@ Th Jul 14
 : **Scholars**{: .label .label-discussion} (AAPB 155) Thriving in STEM
 
 F Jul 15
-: **Group**{: .label .label-group} EDA, Society
+: **Group**{: .label .label-group} EDA, Python
 : **Project 2**{: .label .label-exam} Due (Checkoff)
-: **Project 3**{: .label .label-exam} Society, Specs Released

@@ -8,7 +8,9 @@ M Jul 18
   : ["Digital Natives", Joanna Radin](https://drive.google.com/file/d/1UZQTHCE5nlj-zva-FNmJmAjVmDVmiLQY/view?usp=sharing){: target="_blank"}
 
 Tu Jul 19
-: **Group**{: .label .label-group} Society
+: Guest Speaker: Chris Volinsky, AT&T
+: **Group**{: .label .label-group} **Project 3**{: .label .label-exam} EDA - Python
+  : [Project 3 Specifications]({{site.baseurl}}/rpd_project/#project-3-exploratory-data-analysis-python){:target="_blank"} 
 
 W Jul 20
 : **Scholars**{: .label .label-lab} Guest speaker: Charis Thompson, Chancellor's Professor and Associate Dean of CDSS
@@ -20,5 +22,4 @@ Th Jul 21
 : **Scholars**{: .label .label-discussion} (AAPB 155) Thriving in STEM
 
 F Jul 22
-: **Group**{: .label .label-group} **Project 3**{: .label .label-exam} Due (Checkoff)
-: **Project 4**{: .label .label-exam} Lab, Specs Released
+: **Group**{: .label .label-group} EDA - Python

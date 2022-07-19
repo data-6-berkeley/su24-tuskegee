@@ -7,8 +7,8 @@ M Aug 1
 : **Scholars**{: .label .label-lab} Pedagogy: How to write computational problems
 
 Tu Aug 2
-: **Group**{: .label .label-group} Lab
-: **Project 4**{: .label .label-exam} Due
+: Guest Speaker: Rodolfo Mendoza-Denton, Professor of Psychology
+: **Group**{: .label .label-group} Society
 
 W Aug 3
 : **Scholars**{: .label .label-lab} Guest speaker: John DeNero, Teaching Professor  of EECS
