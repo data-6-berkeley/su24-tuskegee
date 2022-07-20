@@ -16,6 +16,7 @@ W Jul 20
 : **Scholars**{: .label .label-lab} Guest speaker: Charis Thompson, Chancellor's Professor and Associate Dean of CDSS
   : Watch ["The New Jim Code", Ruha Benjamin](https://www.youtube.com/watch?v=JahO1-saibU){:target="_blank"}
   <br/>Read [Lazer et al.](https://www.science.org/doi/10.1126/science.aaz8170){:target="_blank"}
+  <br/>[Slides](https://drive.google.com/file/d/1mTDY54E9dGLlyRVeiu2e6Qmw882hknTE/view?usp=sharing){:target="_blank"}
   
 
 Th Jul 21
