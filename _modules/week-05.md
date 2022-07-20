@@ -19,7 +19,7 @@ W Jul 20
   
 
 Th Jul 21
-: **Scholars**{: .label .label-discussion} (AAPB 155) Thriving in STEM
+: **Scholars**{: .label .label-discussion} CDSS Social with Eric Van Dusen (4pm, Blackwell Hall)
 
 F Jul 22
 : **Group**{: .label .label-group} EDA - Python
