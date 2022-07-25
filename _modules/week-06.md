@@ -4,7 +4,7 @@ weekNumber: 6
 ---
 
 M Jul 25
-: **Scholars**{: .label .label-lab} ([Yali's Qualcomm Cafe](https://goo.gl/maps/zdzGuXmRfWDwxCATA)) Coffee Chat: Hikari Murayama, PhD student, Energy and Resources
+: **Scholars**{: .label .label-lab} ([Yali's Qualcomm Cafe](https://goo.gl/maps/zdzGuXmRfWDwxCATA)) Coffee Chat: [Hikari Murayama](https://erg.berkeley.edu/people/murayama-hikari/), PhD student, Energy and Resources
 
 Tu Jul 26
 : Guest Speaker: Avi Feller, Professor of Public Policy and Statistics
