@@ -13,7 +13,7 @@ W Aug 10
 : **No class**
 
 Th Aug 11
-: **Scholars**{: .label .label-discussion} (AAPB 155) Thriving in STEM
+: **No class**
 
 F Aug 12
-: **No class**
+: **No class (Finals)**
