@@ -12,6 +12,7 @@ Tu Jul 26
 
 W Jul 27
 : **Scholars**{: .label .label-lab} Guest Speaker: James Rue, Associate Dean, School of Journalism
+  : [Slides](https://drive.google.com/file/d/1G3gsZGeuF4yvgP1cW18OgxoxoH4k6sIE/view?usp=sharing){:target="_blank"}
 
 Th Jul 28
 : **Scholars**{: .label .label-discussion} (AAPB 155) Thriving in STEM

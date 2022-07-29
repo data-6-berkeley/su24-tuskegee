@@ -15,6 +15,8 @@ currWeekNumber: 6
 ### Weekly Schedule
 Subject to change. Jump to current week [here](#week-{{page.currWeekNumber}}) for the latest updates.
 
+[Contact List of Guest Speakers](https://docs.google.com/spreadsheets/d/16DzemR4GISIfOX9patkE3V4eLKeeWA2IQ92QCk6a2oI/edit?usp=sharing){:target="_blank"}
+
 {% for schedule in site.schedules %}
     {% if schedule.name == "RPD" %}
         {{ schedule }}

@@ -153,6 +153,8 @@ It is less important to reproduce the formatting of the plot-- in fact doing so 
 **Due**:			(n/a, bundled into final presentation)
 
 **Expected Work Time**:
+  * Tuesday 8/2: Discussion building
+  * 
   * Tuesday 7/19: Guest speaker; finish Colab setup; get slides checked off
   * Friday 7/22: Reproduce 2 figures from Google Sheets. UC Berkeley UGSIs switch to teaching role so that Tuskegee Scholars do bulk of programming
   * Tuesday 7/26: Guest speaker; start exploring new figure
@@ -172,15 +174,66 @@ Describe particular norms an instructor should establish during this discussion,
 
 ## [Presentation] Final Presentation
 
-15 minutes per group
+Build and edit your slides from Project 1 to include EDA findings and social context discussion questions. The final presentation should be a standalone slide deck that can be shared with future discussion instructors.
+
+**Expected Work Time**:
+  * Friday 7/29: Get slides and code checked off (Deb and Lisa to sit down and review code with each Tuskegee Scholar)
+  * Tuesday 8/2: Start dicsussion question work (refining and expanding discussion to fill 50 minutes)
+  * Friday 8/5: Make final presentation slides
+  * Monday 8/8: Extra presentation time (Scholars only)
+  * **Tuesday 8/9**: Final Presentations. **3-4:30pm** (are UC Berkeley GSIs available?)
+
+
+Final Presentation: **15 minutes per group**.
+Your presentations should be no longer than 15 slides, plus extra reference slides as needed.
+* Introduction
 * Discussion activity
-    * Required readings
-    * Three discussion questions (Projects 1 and 4)
+    * Required readings for students. It would be useful to give a one-sentence verbal explanation about the purpose of each of the readings in building student knowledge (e.g., original research study, explains dataset, is an opinion article, etc.).
+    * Outline of a 50-minute discussion (Projects 1 and below social context questions)
     * Instructor-facing Lesson Plans
 * EDA
     * Python figures only
     * Note which functions or methods used from datascience library or from Python
 * Thoughts and reflections
+    * How was your experience exploring this dataset and context this summer?
+    * What did you like, and what did you learn?
+* Reference slides (not covered, but included in the presentation)
+    * Project 1 Slide: Research example
+    * Project 1 Slide: Bio of a prominent researcher in the field at the intersection of society and data science
+    * Required readings for students and instructors (e.g., anything you read that you think an instructor would find useful, but may be too in-depth for a student)
+
+
+### Lesson Plan for Social Context Discussion Activities
+
+Construct at least two 15-minute activities where students engage critically with the social context of the dataset and the institutions/collectors of the dataset. Your activities should address the following:
+* How were the data collectors/researchers connected to the population of interest?
+* How is the dataset shaped by the data collectors' backgrounds and interests? For example, how variables are defined/measured, what concepts are not measured, how data are organized/aggregated for public use, what visualizations are shared, etc.
+* How may the context of the study have impacted the sample collection, reports, and policy decisions?
+
+Notes:
+* Based on how you organize your discussion, it's possible to create one big activity as well. You should adjust the lesson plan table below (as well as its timings) to reflect any changes you make.
+* If you learned a social science/ethical concept from a guest speaker (e.g., normative ethical approaches) and would like to introduce it as part of discussion, please make sure to include a slide describing that part of the lesson as well.
+
+To answer the above, you should present a slide (or multiple) addressing the following table, which also includes the recall activity from Project 1:
+
+| | Category | Description |
+| -- | --- | --- |
+| | **Student Required Readings** | Pick at most 3 readings that students should read prior to discussion that will illuminate a particular dataset in the context of society. This may be a subset of the ones we provided, or you can pick your own from reputable sources.<br/>The readings should describe the topic itself, the current public opinion, any historical context, and a recent research study using the dataset.<br/>Readings should take about 1 hour, maximum. |
+| | **Introduction**<br/>(5 minutes) | How will you introduce the discussion section? |
+| 1 | **Recall Activity**<br/>(10 minutes) | Pose a question you to get students positioned and warmed up to discuss. It often involves students “recalling” what was in their required readings. | 
+| 1 | **Activity structure** | How will you structure the discussion of this question(s)? In small groups, pairs, as a class? Will you have time to review as a class before or after the activity? |
+| 1 | **Learning Goal/Outcome** | Write a sentence for the instructor-facing lesson plan, e.g., “By the end of this activity, students will be able to…” (see [Action Verbs](https://teaching.berkeley.edu/resources/design/course-level-learning-goalsoutcomes){:target="_blank"}) |
+| 1 | **Main Takeaway**<br/>(2 minutes) | Share the main student-facing takeaway that you will repeat for the students at the end of activity. | 
+| 2 | **Activity 2**<br/>(N minutes)| Pose a question/activity where students engage critically with the social context of the dataset and/or the institutions/collectors of the dataset. You should adjust N (the number of minutes) as needed.|
+| 2 | **Activity structure** |
+| 2 | **Learning Goal/Outcome** |
+| 2 | **Main Takeaway**<br/>(2 minutes) | 
+| 3 | **Activity 3**<br/>(N minutes)| Pose a question/activity where students engage critically with the social context of the dataset and/or the institutions/collectors of the dataset. You should adjust N (the number of minutes) as needed.|
+| 3 | **Activity structure** |
+| 3 | **Learning Goal/Outcome** |
+| 3 | **Main Takeaway**<br/>(2 minutes) | 
+
+Note on timing: You should aim for a 40-50-minute discussion lesson plan.
 
 
 <!--
