@@ -143,6 +143,7 @@ Send the Google Slides through Slack. Also deliver a presentation to the seminar
 
 It is less important to reproduce the formatting of the plot-- in fact doing so requires advanced plotting knowledge beyond the scope of Data 6/Data 8.
 
+<!--
 ---
 
 ## [Project 4] Social and Ethical Implications of Data
@@ -168,6 +169,7 @@ Questions:
 {:.no_toc}
 
 Describe particular norms an instructor should establish during this discussion, and what role the discussion facilitator should play. Are there any key terms a student should remember? How can an instructor guide the conversation away from criticism and towards constructive design?
+-->
 
 
 ---

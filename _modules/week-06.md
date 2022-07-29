@@ -19,4 +19,4 @@ Th Jul 28
 
 F Jul 29
 : **Group**{: .label .label-group} **Project 3**{: .label .label-exam} Due (Checkoff)
-: **Group**{: .label .label-group} **Project 4**{: .label .label-exam} Society Released
+: **Group**{: .label .label-group} **Final Project**{: .label .label-exam} Specifications Released
