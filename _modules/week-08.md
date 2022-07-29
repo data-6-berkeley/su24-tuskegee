@@ -5,6 +5,7 @@ weekNumber: 8
 
 M Aug 8
 : **Scholars**{: .label .label-lab} Presentation Work
+: **Dinner** 5:30pm, Great China (2190 Bancroft Way, Berkeley, CA 94704)
 
 Tu Aug 9
 : **Group**{: .label .label-group} **Project**{: .label .label-exam} **\*\*3-4:30pm\*\*** Final Presentations
