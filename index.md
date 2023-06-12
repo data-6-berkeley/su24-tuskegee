@@ -48,7 +48,7 @@ UC Berkeley, Summer 2022
 {{ announcement }}
 {% endfor %}
 
-The below schedule is also available as a [Google Sheet](https://docs.google.com/spreadsheets/d/1JxJs3GKICAgg9RDqkirgMeBI7uEDZdD2cchVWLakRWY/edit?usp=sharing){:target="_blank"}.
+The below schedule is also available as a [Google Sheet](https://docs.google.com/spreadsheets/d/1Vlw94iLol_GNUcunarYZ5W1MvH89-TukYpUaNiqU7tI/edit?usp=sharing){:target="_blank"}.
 
 Click on the tabs below to switch between weeks.
 
