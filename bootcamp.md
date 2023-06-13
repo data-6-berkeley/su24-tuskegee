@@ -10,6 +10,8 @@ description: >-
 
 All days start at 10am. Please check the [Weekly Events](../schedule) page for precise times.
 
-{% for module in site.bootcamp %}
+**Room:** Stanley 179 ([map](https://goo.gl/maps/6TQw8vMEWPjv1wpo7))
+
+{% for module in site.modules_bootcamp %}
 {{ module }}
 {% endfor %}

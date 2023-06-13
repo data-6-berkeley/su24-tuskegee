@@ -45,10 +45,10 @@ aux_links:
 # Collections for website data
 collections:
   staffers:
-  modules:
+  modules_rpd:
   schedules:
   announcements:
-  bootcamp:
+  modules_bootcamp:
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -59,7 +59,7 @@ defaults:
       subpath: '/assets/images/'
   - scope:
       path: ''
-      type: modules
+      type: modules_rpd
     values:
       layout: module
   - scope:
@@ -74,7 +74,7 @@ defaults:
       layout: announcement
   - scope:
       path: ''
-      type: bootcamp
+      type: modules_bootcamp
     values:
       layout: module
 

@@ -36,11 +36,15 @@
       background-color: $green-100;
       color: white;
     }
+    &.label-scholars {
+      background-color: $green-100;
+      color: white;
+    }
     &.label-homework {
       background-color: $red-200;
       color: white;
     }
-    &.label-discussion {
+    &.label-event {
       background-color: $purple-000;
       color: white;
     }

@@ -16,3 +16,12 @@ This Summer 2023 Program presents an introductory data science curriculum that i
 There are two parts:
 - A 2-week "Coding Bootcamp" that teaches computing topics (without the data) and precedes an introductory data science course such as [Data 6](https://data6.org/). Uses material from [CS 61A](https://cs61a.org/), [Data 6](https://data6.org/), and [Data 8](http://data8.org/). Available at `bootcamp`.
 - An 8-week Research, Pedagogy, and Discovery Seminar. Available from the top page.
+
+## Website layout
+
+This website is compiled through jekyll and GitHub pages.
+
+`index.md` - main page
+  `_announcements/` each announcement is listed here.
+  `_modules_rpd/` each week's curriculum for RPD is listed here.
+  `_modules_bootcamp/` each week's curriculum for coding bootcamp is listed here.
