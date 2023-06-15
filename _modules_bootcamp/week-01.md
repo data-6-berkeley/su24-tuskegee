@@ -14,8 +14,8 @@ Tu Jun 20
 
 W Jun 21
 : **2**{: .label}  Names, Booleans, and Functions
-  : [Slides](https://docs.google.com/presentation/d/19Ir3G10R82XdmJuawYk0ZMzNlKpXpxTDyEzTjfGV_bM/edit?usp=sharing){: target="_blank"} &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu23-rpd&urlpath=tree%2Fsu23-rpd%2Flecture%2Flec02%2Flec02.ipynb&branch=main){: target="_blank"}
-: **Lab 1**{: .label .label-lab} [Lab 1A](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu23-rpd&urlpath=tree%2Fsu23-rpd%2Flab%2Flab01%2Flab01a-strings-booleans-names.ipynb&branch=main){: target="_blank"}: Booleans, Strings, and Names; [Lab 1B](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu23-rpd&urlpath=tree%2Fsu23-rpd%2Flab%2Flab01%2Flab01b-functions.ipynb&branch=main){: target="_blank"}: Functions
+  : Slides &#8226; Code
+: **Lab 1**{: .label .label-lab} Lab 1A: Booleans, Strings, and Names; Lab 1B: Functions
 : *Optional Reading*: [1.3 Defining New Functions](http://composingprograms.com/pages/13-defining-new-functions.html), [1.4 Designing Functions](http://composingprograms.com/pages/14-designing-functions.html)
 
 Th Jun 22
