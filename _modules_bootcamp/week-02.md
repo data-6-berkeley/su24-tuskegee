@@ -4,7 +4,7 @@ title: Week 2
 ---
 
 M Jun 26
-: **5**{: .label} More Control: For and While Loops
+: **5**{: .label} Iteration For and While Loops
   : [Slides](){: target="_blank"} &#8226; [Code](){: target="_blank"}
 : **Lab 3**{: .label .label-lab} Control, continued
 : **Lab 4**{: .label .label-lab} Iteration
