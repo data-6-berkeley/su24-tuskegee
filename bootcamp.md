@@ -8,7 +8,7 @@ description: >-
 
 # Pre-Data 6 Coding Bootcamp
 
-All days start at 10am. Please check the [Weekly Events](../schedule) page for precise times.
+All days start at 10am. Please check the [Home](../) page for precise times.
 
 **Room:** Stanley 179 ([map](https://goo.gl/maps/6TQw8vMEWPjv1wpo7))
 
