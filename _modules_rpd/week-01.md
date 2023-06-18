@@ -10,4 +10,7 @@ W Jun 21
 : **1**{: .label} **Scholars**{: .label .label-scholars} [Introduction + Team Building](https://docs.google.com/presentation/d/1hwwbuW74Bo2cWMhD2XlL3PajM2iMLLDri2AY14KFF7s/edit?usp=sharing){: target="_blank"}
 
 Th Jun 22
-: **Event**{: .label .label-event}  Black Resource Center tour
+: **No class, see Friday's event**
+
+F Jun 23
+: **Event**{: .label .label-event} Campus Tour, 2pm
