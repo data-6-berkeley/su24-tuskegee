@@ -15,16 +15,6 @@ seo:
 UC Berkeley, Summer 2023
 {: .mb-2 .fs-6 .text-grey-dk-000 }
 
-{: .mb-2}
-<div>
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
-<div class="role">
-  {% for staffer in instructors %}
-  {{ staffer }}
-  {% endfor %}
-</div>
-</div>
-
 <!--
 ## Announcements
 

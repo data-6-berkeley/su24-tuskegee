@@ -92,6 +92,10 @@
       @extend .fs-2;
     }
 
+    &.bootcamp {
+      background-color: $red-000;
+    }
+
     &.group-work {
       background-color: $blue-000;
     }

@@ -1,6 +1,6 @@
 ---
 name: Lisa Yan
-role: Instructor
+role: Faculty Director
 email: yanlisa@eecs.berkeley.edu
 website:
 photo: Lisa_Yan.jpg
