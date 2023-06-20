@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Tuskegee Scholars Staff
+title: Staff
 nav_order: 4
 ---
+
+# Tuskegee Scholars Staff
 
 {: .mb-2}
 <div>
