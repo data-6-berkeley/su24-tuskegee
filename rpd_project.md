@@ -24,9 +24,8 @@ There are several components to this seminar:
 
 1. **Group**{: .label .label-blue} **Lab/group work series** where students build small pieces of curricula, including how to write a discussion question and write a lab question.
 
-1. **Project**{: .label .label-yellow} **Project series**-based exploration of parts 1 and 2 in teams of 3-4 Tuskegee students + one Berkeley Data 6/Data 8 UGSI. Each group will focus on one social context.
-
-1. **Scholars**{: .label .label-purple} **Lecture series** Thriving in STEM (run by SEED Scholars Summer Rising Program).
+1. **Project**{: .label .label-yellow} **Project series**-based exploration of parts 1 and 2 in teams of 3-4 Tuskegee students.
+Each group will focus on one social context.
 
 ### Learning Goals and Workload
 
@@ -38,11 +37,7 @@ After this seminar, scholars will have exposure to the following:
 * How to write a discussion question
 * How to write a lab question
 
-We expect there to be little commitment outside of the scheduled 4 group work hours + 4-6 scholars-only hours.
-
-
-
-
+We expect there to be little commitment outside of the scheduled 6 hours.
 
 ---
 
@@ -54,19 +49,22 @@ We expect there to be little commitment outside of the scheduled 4 group work ho
 <li><a href="#submission" id="markdown-toc-submission">Submission</a></li>
 </ul>
 
-**Due**:			Friday July 8, end of seminar (tentatively)
+**Due**:			Wednesday, July 5, as a presentation
 
-**Expected Work Time**: 		(Updated 7/1) During seminar on Tuesday and Friday. 
-  * Tuesday 6/28: Get through half of topic readings and pedagogy readings.
-  * Friday 7/1: Build Google Slides (up through lesson plan) and share on Slack.
-  * Tuesday 7/5: Work through lesson plan and finish slides.
-  * Friday 7/8: Deliver presentations and submit Google Slides.
+**Expected Work Time**: 		During work time on Monday and Thursday.
+  * Week 2: Get through half of topic readings and pedagogy readings.
+  * Week 3, Monday: Work through lesson plan and finish slides.
+  * Week 3, Thursday: Deliver presentations and submit Google Slides.
 
-**Topic Assignments**: [Group Assignments](https://docs.google.com/spreadsheets/d/1HH9ncaIU69iWyEfuqA3rMO_1Ooe8AZIwrRRfvTzcRvU/edit#gid=0)
+**Project links**:
+
+* Project one-pager: [One-Pager](https://docs.google.com/document/d/1RS8NqVDn5QWa2qUsq6RCtmi95dObMl2wbqf0kEInS8k/edit?usp=sharing){: target="_blank"}
+* Fill out your form here: [https://tinyurl.com/su23-rpd-project](https://tinyurl.com/su23-rpd-project){: target="_blank"}
+* Group/Topic assignments: [Group sheet](https://docs.google.com/spreadsheets/d/1ct7rQuHV6RgbWBtAb1CSCdUnneoMX-8QZhV-kmw540w/edit?usp=sharing)
 
 
 ### Required Readings
-Topic-based: [https://tinyurl.com/rpd-project-list](https://tinyurl.com/rpd-project-list)
+Topic-based: [https://tinyurl.com/su23-rpd-project](https://tinyurl.com/su23-rpd-project)
 
 Pedagogy-based:
 * [Tools for Teaching](https://drive.google.com/file/d/1pisWNHtrfKiBd_8a-vsBuqv0sdK6QB2S/view?usp=sharing), (p. 97-p.101, PDF 115-119). Read up to and including “Starting a Discussion."
@@ -84,7 +82,7 @@ Your Google Slide deck should have at least the following (max 15 slides):
 * Slide: Bio of a prominent researcher in the field at the intersection of society and data science
 * Slide: Lesson plan for discussion activity
 
-**Presentation**: <b>Updated Fri 7/1:</b> You will present these slides to the other groups on Friday, July 8. The presentation should be **10 minutes**, and every group member should present. <del><b>These slides will not be presented anywhere!</b> The slides format is just to organize your thoughts. Feel free to add slides as necessary.</del>
+**Presentation**: You will present these slides to the other groups in Week 3. The presentation should be **10 minutes**, and every group member should present. <del><b>These slides will not be presented anywhere!</b> The slides format is just to organize your thoughts. Feel free to add slides as necessary.</del>
 
 ### Lesson Plan for Discussion Activity
 
@@ -112,10 +110,11 @@ To answer the above, you should present a slide addressing the following table:
 Send the Google Slides through Slack. Also deliver a presentation to the seminar as above.
 
 
-
 ---
 
 ## [Project 2] Exploratory Data Analysis
+
+<!--
 
 **Due**:			Friday July 15, end of seminar (tentatively)
 
@@ -126,11 +125,13 @@ Send the Google Slides through Slack. Also deliver a presentation to the seminar
 
 **Questions**: [link](https://docs.google.com/document/d/1GlyS391W3f79-NSMZeQP4BsiMvKa2QGPCsx7ZZyBjiI/edit?usp=sharing){: target="_blank"}
 **Data**: [Google Drive link](https://drive.google.com/drive/folders/1cRWxkl6S7JtfvQNpP1Xq_ttGCV-MM5Xi?usp=sharing){: target="_blank"}
+-->
 
 ---
 
 ## [Project 3] Exploratory Data Analysis, Python
 
+<!--
 **Due**:			Friday July 29, middle of seminar (tentatively)
 
 **Expected Work Time**:
@@ -142,6 +143,7 @@ Send the Google Slides through Slack. Also deliver a presentation to the seminar
 **Note**: The `datascience` library has different plotting styles from Google Sheets. When "reproducing"  figure/plot, we expect that you will take considerable time getting the right tables and columns for plotting, then choosing the right arguments for `datascience` library functions. Here are the function reference sheets for [Data 8](http://data8.org/su22/python-reference.html){: target="_blank"} and [Data 6](https://data6.org/su22/reference/){:target="_blank"}.
 
 It is less important to reproduce the formatting of the plot-- in fact doing so requires advanced plotting knowledge beyond the scope of Data 6/Data 8.
+-->
 
 <!--
 ---
@@ -175,6 +177,7 @@ Describe particular norms an instructor should establish during this discussion,
 ---
 
 ## [Presentation] Final Presentation
+<!--
 
 Build and edit your slides from Project 1 to include EDA findings and social context discussion questions. The final presentation should be a standalone slide deck that can be shared with future discussion instructors.
 
@@ -236,6 +239,7 @@ To answer the above, you should present a slide (or multiple) addressing the fol
 | 3 | **Main Takeaway**<br/>(2 minutes) | 
 
 Note on timing: You should aim for a 40-50-minute discussion lesson plan.
+
 
 
 <!--

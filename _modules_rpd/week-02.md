@@ -4,7 +4,7 @@ weekNumber: 2
 ---
 
 M Jun 26
-: **2**{: .label} **Scholars**{: .label .label-scholars} [What is research? Reading research papers](https://docs.google.com/presentation/d/1OZlzbT76UR76kI_OjvDrkFvAjSrjFn2RfqEsOLy4P7Q/edit?usp=sharing){: target="_blank"}
+: **2**{: .label} **Scholars**{: .label .label-scholars} What is research? Reading research papers
 : **Project 1**{: .label .label-exam} Specs released
   : [Project 1 Specifications]({{site.baseurl}}/rpd_project/#project-1-reading-data-science-and-social-science-literature){:target="_blank"}
 : **Group**{: .label .label-group} Project reading
