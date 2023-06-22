@@ -9,7 +9,7 @@ M Jun 26
   : [Project 1 Specifications]({{site.baseurl}}/rpd_project/#project-1-reading-data-science-and-social-science-literature){:target="_blank"}
 : **Group**{: .label .label-group} Project reading
 
-W Jun 28
+Tu Jun 27
 : **Event**{: .label .label-event}  Black Resource Center tour, TBD
 
 Th Jun 29
