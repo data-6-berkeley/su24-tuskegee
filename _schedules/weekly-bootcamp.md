@@ -16,33 +16,33 @@ schedule:
         class: bootcamp
         start: 10:10 AM
         end: 12:30 PM
-        location: Stanley 179
+        location: Evans 45
   - name: Tuesday
     events:
       - name: Coding Bootcamp
         class: bootcamp
         start: 10:10 AM
         end: 12:30 PM
-        location: Stanley 179
+        location: Evans 45
   - name: Wednesday
     events:
       - name: Coding Bootcamp
         class: bootcamp
         start: 10:10 AM
         end: 12:30 PM
-        location: Stanley 179
+        location: Evans 45
   - name: Thursday
     events:
       - name: Coding Bootcamp
         class: bootcamp
         start: 10:10 AM
         end: 12:30 PM
-        location: Stanley 179
+        location: Evans 45
   - name: Friday
     events:
       - name: Coding Bootcamp
         class: bootcamp
         start: 10:10 AM
         end: 12:30 PM
-        location: Stanley 179
+        location: Evans 45
 ---
