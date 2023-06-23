@@ -15,12 +15,12 @@ schedule:
         class: lab
         start: 2:10 PM
         end: 3:00 PM
-        location: Stanley 179
+        location: Evans 45
       - name: Group Work
         class: group-work
         start: 3:00 PM
         end: 5:00 PM
-        location: Stanley 179
+        location: Evans 45
   - name: Tuesday
   - name: Wednesday
     events:
@@ -28,13 +28,13 @@ schedule:
         class: lab
         start: 2:10 PM
         end: 3:00 PM
-        location: Stanley 179
+        location: Evans 45
   - name: Thursday
     events:
       - name: Group Work
         class: group-work
         start: 2:10 PM
         end: 4:00 PM
-        location: Stanley 179
+        location: Evans 45
   - name: Friday
 ---
