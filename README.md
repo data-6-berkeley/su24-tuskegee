@@ -33,6 +33,11 @@ ctrl-e: jump to back of line
 option-left or right: tab between words
 ```
 
+On finder:
+```
+Command-Up    # effectively cd ..
+```
+
 
 re-add SSH keys
 ```
