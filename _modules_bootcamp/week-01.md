@@ -25,5 +25,5 @@ Th Jun 22
 : *Optional Reading*: [1.5.4 Conditional Statements](http://composingprograms.com/pages/14-designing-functions.html)
 
 F Jun 23
-: **4**{: .label} Print, None, and Conditions
+: **4**{: .label} Print, None, Conditions!
 : **Lab 3**{: .label .label-lab} Lab 3: Control
