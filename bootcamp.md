@@ -11,7 +11,7 @@ description: >-
 Coding bootcamp for the first two weeks of the Tuskegee Scholars program.
 All days start at 10am. Please check the [Home](../) page for precise times.
 
-**Room:** Stanley 179 ([map](https://goo.gl/maps/6TQw8vMEWPjv1wpo7))
+**Room:** Evans 45 ([map](https://goo.gl/maps/hNHgeyuVVt3Y5k6S6))
 
 {% for schedule in site.schedules %}
     {% if schedule.name == "Bootcamp" %}
