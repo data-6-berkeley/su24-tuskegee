@@ -26,4 +26,5 @@ Th Jun 22
 
 F Jun 23
 : **4**{: .label} Print, None, and Conditions
+  : [Slides](https://docs.google.com/presentation/d/1Cfvih6rEwJNbIw0tCUYrabm_aRnJgXefs3_JOS_5Zqg/edit?usp=sharing){: target="_blank"} &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu23-bootcamp&branch=main&urlpath=tree%2Fsu23-bootcamp%2Flecture%2Flec04%2Flec04.ipynb){: target="_blank"}
 : **Lab 3**{: .label .label-lab} Lab 3: Control
