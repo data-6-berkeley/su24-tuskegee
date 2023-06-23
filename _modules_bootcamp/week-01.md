@@ -26,4 +26,4 @@ Th Jun 22
 
 F Jun 23
 : **4**{: .label} Print, None, and Conditions
-: **Lab 3**{: .label .label-lab} Lab 3: Control
+: **Lab 3**{: .label .label-lab} [Control](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu23-bootcamp&branch=main&urlpath=tree%2Fsu23-bootcamp%2Flab%2Flab03%2Flab03-control.ipynb){: target="_blank"}
