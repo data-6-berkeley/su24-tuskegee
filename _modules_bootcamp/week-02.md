@@ -13,7 +13,7 @@ M Jun 26
 Tu Jun 27
 : **6**{: .label} Higher Order Functions
   : [Slides](){: target="_blank"} &#8226; [Code](){: target="_blank"}
-: **Lab 4**{: .label .label-lab} Iteration, continued
+: **Lab 4**{: .label .label-lab} [Iteration, continued](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu23-bootcamp&branch=main&urlpath=tree%2Fsu23-bootcamp%2Flab%2Flab04%2Flab04-iteration.ipynb){: target="_blank"}
 : **Lab 5**{: .label .label-lab} Higher-Order Functions
 : *Optional Reading*: [Design](https://cs61a.org/assets/slides/06-Design.pdf)
 
