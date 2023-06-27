@@ -11,7 +11,7 @@ currWeekNumber: 1
 
 [Project Specifications]({{site.baseurl}}/rpd_project){: .btn .bg-yellow-200 .text-grey-dk-250 }
 
-**Room:** Evans 45 ([map](https://goo.gl/maps/hNHgeyuVVt3Y5k6S6){: target="_blank"}))
+**Room:** Evans 45 ([map](https://goo.gl/maps/hNHgeyuVVt3Y5k6S6){: target="_blank"})
 
 ### Weekly Schedule
 Subject to change. Jump to current week [here](#week-{{page.currWeekNumber}}) for the latest updates.

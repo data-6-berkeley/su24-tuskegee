@@ -4,12 +4,12 @@ weekNumber: 2
 ---
 
 M Jun 26
-: **2**{: .label} **Scholars**{: .label .label-scholars} What is research? Reading research papers
+: **2**{: .label} **Scholars**{: .label .label-scholars} [What is research? Reading research papers](https://docs.google.com/presentation/d/1h43MjBefTZooL8tg1MyKM90VnSgvT41NU9icbZkmwUM/edit?usp=sharing){: target="_blank"}
 : **Project 1**{: .label .label-exam} Specs released
   : [Project 1 Specifications]({{site.baseurl}}/rpd_project/#project-1-reading-data-science-and-social-science-literature){:target="_blank"}
 : **Group**{: .label .label-group} Project reading
 
-Tu Jun 27
+W Jun 28
 : **Event**{: .label .label-event}  Black Resource Center tour, TBD
 
 Th Jun 29
