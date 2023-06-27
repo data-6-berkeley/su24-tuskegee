@@ -11,22 +11,20 @@ M Jun 26
 : *Optional Reading*: [1.5.5 Iteration](http://composingprograms.com/pages/15-control.html#iteration), [2.3.2 (Ranges only)](http://composingprograms.com/pages/23-sequences.html#sequence-iteration)
 
 Tu Jun 27
-: **6**{: .label} Higher Order Functions
-  : [Slides](){: target="_blank"} &#8226; [Code](){: target="_blank"}
-: **Lab 4**{: .label .label-lab} [Iteration, continued](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu23-bootcamp&branch=main&urlpath=tree%2Fsu23-bootcamp%2Flab%2Flab04%2Flab04-iteration.ipynb){: target="_blank"}
-: **Lab 5**{: .label .label-lab} Higher-Order Functions
+: **6**{: .label} Iteration, continued
+  : [Slides](https://docs.google.com/presentation/d/131f2wLXxVoYYkYv58kh0x-_6fpvWxY7uMR8ktHPdj2I/edit?usp=sharing){: target="_blank"} &#8226; [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu23-bootcamp&branch=main&urlpath=tree%2Fsu23-bootcamp%2Flecture%2Flec05%2Flec05.ipynb){: target="_blank"}
+: **Lab 4**{: .label .label-lab} [Iteration](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu23-bootcamp&branch=main&urlpath=tree%2Fsu23-bootcamp%2Flab%2Flab04%2Flab04-iteration.ipynb){: target="_blank"}
 : *Optional Reading*: [Design](https://cs61a.org/assets/slides/06-Design.pdf)
 
 W Jun 28
-: **7**{: .label} More Higher Order Functions
-  : [CS61A Slides](https://cs61a.org/assets/slides/07-Function_Examples.pdf) &#8226; [Code](#)
-: **Lab 5**{: .label .label-lab} Higher-Order Functions, continued
-: **Lab 6**{: .label .label-lab} Higher-Order Functions
-  : [CS61A Lab](https://cs61a.org/lab/lab02/){: target="_blank"}
+: **7**{: .label} Higher Order Functions
+  : [Slides](){: target="_blank"} &#8226; [Code](){: target="_blank"}
+: **Lab 5**{: .label .label-lab} Higher-Order Functions
 
 
 Th Jun 29
 : **8**{: .label} More Higher Order Functions
+  : [CS61A Slides](https://cs61a.org/assets/slides/07-Function_Examples.pdf) &#8226; [Code](#)
 : **Lab 6**{: .label .label-lab} Higher-Order Functions, continued
   : [CS61A Lab](https://cs61a.org/lab/lab02/){: target="_blank"}
 
