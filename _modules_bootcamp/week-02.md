@@ -23,10 +23,7 @@ W Jun 28
 
 
 Th Jun 29
-: **8**{: .label} More Higher Order Functions
-  : [CS61A Slides](https://cs61a.org/assets/slides/07-Function_Examples.pdf) &#8226; [Code](#)
-: **Lab 6**{: .label .label-lab} Higher-Order Functions, continued
-  : [CS61A Lab](https://cs61a.org/lab/lab02/){: target="_blank"}
+: **8**{: .label} Review
 
 F Jun 30
-: **9**{: .label} About Computer Science and Data Science
+: **9**{: .label} Data 6 Intro
