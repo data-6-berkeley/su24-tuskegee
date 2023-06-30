@@ -27,3 +27,4 @@ Th Jun 29
 
 F Jun 30
 : **9**{: .label} Data 6 Intro
+  :[Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu23-bootcamp&branch=main&urlpath=tree%2Fsu23-bootcamp%2Flecture%2Flec07){: target="_blank"}
