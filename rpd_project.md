@@ -121,7 +121,7 @@ Send the Google Slides through Slack. Also deliver a presentation to the seminar
   * Thursday 7/13: Explore rest of questions, begin looking at own questions (at least two). Start compiling Google Slides with findings by Friday.
   * Monday 7/17: Get slides checked off.
 
-**Questions**: [link](https://docs.google.com/document/d/1GlyS391W3f79-NSMZeQP4BsiMvKa2QGPCsx7ZZyBjiI/edit?usp=sharing){: target="_blank"}
+**Questions**: [link](https://docs.google.com/document/d/12ZQ7B7sSaoOc8ss2YZF0uxOQ5AGzmXmBuA8SXC5nPJw/edit?usp=drive_link){: target="_blank"}
 **Data**: [Google Drive link](https://drive.google.com/drive/folders/1X8ka13kYRvAbBgIa-tWbUbL03KS-Dloc?usp=drive_link){: target="_blank"}
 
 ---
