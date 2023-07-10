@@ -12,5 +12,4 @@ W Jul 12
 : **5**{: .label} **Scholars**{: .label .label-lab} Guest speaker: TBD
 
 Th Jul 13
-: **Group**{: .label .label-group} EDA - Spreadsheets
-: **Project 2**{: .label .label-exam} Checkoff Due
+: **Group**{: .label .label-group} **Project 2**{: .label .label-exam} EDA - Spreadsheets

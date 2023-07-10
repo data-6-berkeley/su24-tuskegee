@@ -114,36 +114,31 @@ Send the Google Slides through Slack. Also deliver a presentation to the seminar
 
 ## [Project 2] Exploratory Data Analysis
 
-<!--
-
-**Due**:			Friday July 15, end of seminar (tentatively)
+**Due**:			Monday July 17, end of seminar (tentatively)
 
 **Expected Work Time**:
-  * Friday 7/8: Look through data and get through half of questions.
-  * Tuesday 7/12: Explore rest of questions, begin looking at own questions (at least two). Start compiling Google Slides with findings by Friday.
-  * Friday 7/15: Get slides checked off.
+  * Monday 7/10: Look through data and get through half of questions.
+  * Thursday 7/13: Explore rest of questions, begin looking at own questions (at least two). Start compiling Google Slides with findings by Friday.
+  * Monday 7/17: Get slides checked off.
 
 **Questions**: [link](https://docs.google.com/document/d/1GlyS391W3f79-NSMZeQP4BsiMvKa2QGPCsx7ZZyBjiI/edit?usp=sharing){: target="_blank"}
-**Data**: [Google Drive link](https://drive.google.com/drive/folders/1cRWxkl6S7JtfvQNpP1Xq_ttGCV-MM5Xi?usp=sharing){: target="_blank"}
--->
+**Data**: [Google Drive link](https://drive.google.com/drive/folders/1X8ka13kYRvAbBgIa-tWbUbL03KS-Dloc?usp=drive_link){: target="_blank"}
 
 ---
 
 ## [Project 3] Exploratory Data Analysis, Python
 
-<!--
-**Due**:			Friday July 29, middle of seminar (tentatively)
+**Due**:			Thursday July 27, middle of seminar (tentatively)
 
 **Expected Work Time**:
-  * Tuesday 7/19: Guest speaker; finish Colab setup; get slides checked off
-  * Friday 7/22: Reproduce (see Note) 2 figures from Google Sheets. UC Berkeley UGSIs switch to teaching role so that Tuskegee Scholars do bulk of programming
-  * Tuesday 7/26: Guest speaker; reproduce all of figures from Google Sheets, and start exploring 2 new figures or tables in Python. UC Berkeley UGSIs continue to teach.
-  * Friday 7/29: Get slides and code checked off (Deb and Lisa to sit down and review code with each Tuskegee Scholar)
+  * Monday 7/17: Finish Colab setup; get slides checked off. Reproduce 2 figures from Google Sheets.
+  * Thursday 7/20: Continue work.
+  * Monday 7/24: Reproduce all of figures from Google Sheets, and start exploring 2 new figures or tables in Python.
+  * Thursday 7/27: Finish up and get checked off.
 
 **Note**: The `datascience` library has different plotting styles from Google Sheets. When "reproducing"  figure/plot, we expect that you will take considerable time getting the right tables and columns for plotting, then choosing the right arguments for `datascience` library functions. Here are the function reference sheets for [Data 8](http://data8.org/su22/python-reference.html){: target="_blank"} and [Data 6](https://data6.org/su22/reference/){:target="_blank"}.
 
 It is less important to reproduce the formatting of the plot-- in fact doing so requires advanced plotting knowledge beyond the scope of Data 6/Data 8.
--->
 
 <!--
 ---
