@@ -7,6 +7,9 @@ M Jul 24
 : **8**{: .label} **Scholars**{: .label .label-lab} TBD
 : **Group**{: .label .label-group} EDA - Python
 
+Tu Jul 25
+: **Event**{: .label .label-event} San Francisco Giants event and game
+
 W Jul 26
 : **9**{: .label} **Scholars**{: .label .label-lab} Guest speaker: TBD
 
