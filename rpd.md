@@ -4,7 +4,7 @@ title: Research, Pedagogy, and Discovery Seminar
 nav_order: 2
 description: >-
     8-week RPD Seminar
-currWeekNumber: 1
+currWeekNumber: 4
 ---
 
 # Research, Pedagogy, and Discovery Seminar

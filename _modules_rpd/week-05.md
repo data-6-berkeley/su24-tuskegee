@@ -4,7 +4,7 @@ weekNumber: 5
 ---
 
 M Jul 17
-: **5**{: .label} **Scholars**{: .label .label-lab} TBD
+: **5**{: .label} **Scholars**{: .label .label-lab} Vice Provost of Undergraduate Education, Oliver O'Reilly
 : **Group**{: .label .label-group} **Project 2**{: .label .label-exam} Project 2 Checkoff Due
 : **Group**{: .label .label-group} **Project 3**{: .label .label-exam} EDA - Python
   : [Project 3 Specifications]({{site.baseurl}}/rpd_project/#project-3-exploratory-data-analysis-python){:target="_blank"} 
