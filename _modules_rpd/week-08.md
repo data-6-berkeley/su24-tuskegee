@@ -4,7 +4,7 @@ weekNumber: 8
 ---
 
 M Aug 7
-: **11**{: .label} **Scholars**{: .label .label-lab} TBD
+: **11**{: .label} **Scholars**{: .label .label-lab} Dave Harding, Chair of Sociology
 : **Group**{: .label .label-group} Presentation Work
 
 Tu Aug 8
