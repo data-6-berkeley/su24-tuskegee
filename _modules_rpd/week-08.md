@@ -4,7 +4,7 @@ weekNumber: 8
 ---
 
 M Aug 7
-: **11**{: .label} **Scholars**{: .label .label-lab} Dave Harding, Chair of Sociology
+: **12**{: .label} **Scholars**{: .label .label-lab} Dave Harding, Chair of Sociology
 : **Group**{: .label .label-group} Presentation Work
 
 Wed Aug 9
