@@ -13,6 +13,7 @@ Tu Aug 1
 
 W Aug 2
 : **10**{: .label} **Scholars**{: .label .label-lab} Ari Edmundson, Lecturer of History
+  : [Reading: A Mulching Proposal](https://ironholds.org/resources/papers/mulching.pdf){: target="_blank"}
 
 Th Aug 3
 : **Group**{: .label .label-group} Finish Research Exploration
