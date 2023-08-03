@@ -4,7 +4,7 @@ weekNumber: 8
 ---
 
 M Aug 7
-: **12**{: .label} **Scholars**{: .label .label-lab} Dave Harding, Chair of Sociology
+: **12**{: .label} **Scholars**{: .label .label-lab} Dave Harding, Chair of Sociology   : [Reading: Diamante Case Study](https://drive.google.com/drive/folders/1D6YhPsApxUp9Xnl8IXgPp6lbd4gYSx8N?usp=sharing){: target="_blank"}
 : **Group**{: .label .label-group} Presentation Work
 
 Wed Aug 9
