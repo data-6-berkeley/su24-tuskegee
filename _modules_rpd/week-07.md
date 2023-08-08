@@ -5,7 +5,7 @@ weekNumber: 7
 
 M Jul 31
 : **9**{: .label} **Scholars**{: .label .label-lab} Philip Stark, Professor of Statistics
-  : [HBO documentary](https://www.max.com/movies/2db0b3ac-71c8-442d-b427-acb3e084e02c){: target="_blank"}
+  : [HBO documentary](https://www.max.com/movies/2db0b3ac-71c8-442d-b427-acb3e084e02c){: target="_blank"}, [slides](https://www.stat.berkeley.edu/~stark/Seminars/auditTuskegee23.slides.pdf){: target="_blank"}
 : **Group**{: .label .label-group} Research Exploration Work
 
 Tu Aug 1
