@@ -11,6 +11,9 @@ M Aug 7
 Wed Aug 9
 : **Group**{: .label .label-group} **Project**{: .label .label-exam} **\*\*2-3:30pm\*\*** Final Presentations
 : **Event**{: .label .label-event} End-of-program Dinner at [Great China](https://goo.gl/maps/hgT23EFyGuohXnLM7){: target="_blank"}, 6-8pm
+: [Classroom Earnestness](https://docs.google.com/presentation/d/183p0_y4v3nrfSDEFlkG9M9rm0cXTaBlDPycPQBxCI-w/edit?usp=drive_link){: target="_blank"}
+: [Disparities in Census Data](https://docs.google.com/presentation/d/1ts_3wbr69rlM16o47Tm4Eb-95a5frAXL/edit?usp=drive_link&ouid=113745915748997113650&rtpof=true&sd=true){: target="_blank"}
+: [Race and MLB](https://docs.google.com/presentation/d/1RzheujCVh1OWUhdx2OhlQtdgAU5SztbS/edit?usp=drive_link&ouid=113745915748997113650&rtpof=true&sd=true){: target="_blank"}
 
 Th Aug 10
 : **No class**
