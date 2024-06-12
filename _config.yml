@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Tuskegee Scholars
-description: Tuskegee Scholars Program, Summer 2023
+description: Tuskegee Scholars Program, Summer 2024
 author: Lisa Yan (UC Berkeley)
 email: yanlisa@eecs.berkeley.edu
-baseurl: '/su23-rpd' # the subpath of your site, e.g. /blog
+baseurl: '/su24-rpd' # the subpath of your site, e.g. /blog
 url: 'https://data6.org' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
@@ -29,14 +29,6 @@ heading_anchors: true
 permalink: pretty
 nav_links:
   Links:
-    Course FAQ:
-      - 'https://ds100.org/sp22faq'
-    Datahub:
-      - 'https://data100.datahub.berkeley.edu'
-    Gradescope:
-      - 'https://www.gradescope.com/courses/353100'
-    Ed:
-      - 'https://edstem.org/us/courses/15436/'
 
 aux_links:
   # 'Slack':
