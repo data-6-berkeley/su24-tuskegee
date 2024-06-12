@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research and Discovery Project
+title: Project
 nav_order: 2
 description: >-
     Research Project

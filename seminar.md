@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research, Pedagogy, and Discovery Seminar
+title: Research and Discovery Seminar
 nav_order: 2
 description: >-
     8-week RPD Seminar
