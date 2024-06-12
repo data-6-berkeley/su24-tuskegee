@@ -5,7 +5,6 @@ timeline:
   - '10:30 AM'
   - '11:00 AM'
   - '11:30 AM'
-  - '12:00 PM'
 
 schedule:
   - name: Monday
