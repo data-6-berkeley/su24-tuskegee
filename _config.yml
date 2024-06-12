@@ -17,9 +17,9 @@ title: Tuskegee Scholars
 description: Tuskegee Scholars Program, Summer 2024
 author: Lisa Yan (UC Berkeley)
 email: yanlisa@eecs.berkeley.edu
-baseurl: '/su24-rpd' # the subpath of your site, e.g. /blog
+baseurl: '/su24-tuskegee' # the subpath of your site, e.g. /blog
 url: 'https://data6.org' # the base hostname & protocol for your site, e.g. http://example.com
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.3.3
