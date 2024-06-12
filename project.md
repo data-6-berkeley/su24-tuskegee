@@ -1,30 +1,30 @@
 ---
 layout: page
-title: RPD Group Project
+title: Research and Discovery Project
 nav_order: 2
 description: >-
-    8-week RPD Seminar
+    Research Project
 nav_exclude: false
 ---
 
-# Research, Pedagogy, and Discovery Group Project
+# Research and Discovery Group Project
 {:.no_toc}
 
 * TOC
 {:toc}
 
 ## Overview
-This summer seminar provide scholars an opportunity to explore independent projects early in their data scientist career. Scholars will build pedagogically and socially motivated curricula for a new introductory computing course centered around data and science.
+This summer seminar provide scholars an opportunity to explore independent projects early in their data scientist career that center around social science contexts.
 
 Unlike a traditional open-ended research project, students will understand, explore, and reproduce existing contexts and findings of particular datasets; **through reproducibility**, students will build research skills and bridge interdisciplinary fields of study.
 
 ### Components
 There are several components to this seminar:
-1. **Scholars**{: .label .label-green} **Lecture series** on how to read semi-technical data science articles, consider ethical and social implications when studying a dataset, and do exploratory data analysis.
+1. **Lecture**{: .label .label-green} **Lecture series** on how to read semi-technical data science articles, consider ethical and social implications when studying a dataset, and do exploratory data analysis.
 
-1. **Group**{: .label .label-blue} **Lab/group work series** where students build small pieces of curricula, including how to write a discussion question and write a lab question.
+1. **Group**{: .label .label-blue} **Group work series** where work on projects together.
 
-1. **Project**{: .label .label-yellow} **Project series**-based exploration of parts 1 and 2 in teams of 3-4 Tuskegee students.
+1. **Project**{: .label .label-yellow} **Project series**-based exploration of parts 1 and 2 in teams of 3-4 Tuskegee students and 1 UC Berkeley student.
 Each group will focus on one social context.
 
 ### Learning Goals and Workload
@@ -34,15 +34,16 @@ After this seminar, scholars will have exposure to the following:
 * How to read data science articles
 * How to consider ethical and social implications when studying a dataset
 * How to do Exploratory Data Analysis
-* How to write a discussion question
-* How to write a lab question
 
-We expect there to be little commitment outside of the scheduled 6 hours.
+We expect there to be little commitment outside of the scheduled 4 hours.
 
 ---
 
 ## [Project 1] Reading Data Science and Social Science Literature
 
+**IN PROGRESS**
+
+<!--
 <ul>
 <li><a href="#required-readings" id="markdown-toc-required-readings">Required Readings</a></li>
 <li><a href="#lesson-plan-for-discussion-activity" id="markdown-toc-lesson-plan-for-discussion-activity">Lesson Plan for Discussion Activity</a></li>
@@ -109,11 +110,15 @@ To answer the above, you should present a slide addressing the following table:
 
 Send the Google Slides through Slack. Also deliver a presentation to the seminar as above.
 
+-->
 
 ---
 
 ## [Project 2] Exploratory Data Analysis
 
+**IN PROGRESS**
+
+<!--
 **Due**:			Monday July 17, end of seminar (tentatively)
 
 **Expected Work Time**:
@@ -126,8 +131,13 @@ Send the Google Slides through Slack. Also deliver a presentation to the seminar
 
 ---
 
+-->
+
 ## [Project 3] Exploratory Data Analysis, Python
 
+**IN PROGRESS**
+
+<!--
 **Due**:			Thursday July 27, middle of seminar (tentatively)
 
 **Expected Work Time**:
@@ -139,6 +149,7 @@ Send the Google Slides through Slack. Also deliver a presentation to the seminar
 **Note**: The `datascience` library has different plotting styles from Google Sheets. When "reproducing"  figure/plot, we expect that you will take considerable time getting the right tables and columns for plotting, then choosing the right arguments for `datascience` library functions. Here are the function reference sheets for [Data 8](http://data8.org/su22/python-reference.html){: target="_blank"} and [Data 6](https://data6.org/su22/reference/){:target="_blank"}.
 
 It is less important to reproduce the formatting of the plot-- in fact doing so requires advanced plotting knowledge beyond the scope of Data 6/Data 8.
+-->
 
 <!--
 ---
@@ -173,6 +184,9 @@ Describe particular norms an instructor should establish during this discussion,
 
 ## [Presentation] Final Presentation
 
+**IN PROGRESS**
+
+<!--
 Build and edit your slides from Project 1 to include EDA findings and social context discussion questions. The final presentation should be a standalone slide deck that can be shared with future discussion instructors.
 
 **Expected Work Time**:
@@ -208,6 +222,7 @@ Build and edit your slides from Project 1 to include EDA findings and social con
 * Reference slides (not covered, but included in the presentation)
     * Required readings for students and instructors
     * Anything you read that you think an instructor or researcher would find useful, but would possibly be too in-depth for a student
+    -->
 
 <!--
 
