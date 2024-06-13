@@ -7,7 +7,7 @@ description: >-
 currWeekNumber: 4
 ---
 
-# Research, Pedagogy, and Discovery Seminar
+# Research and Discovery Seminar
 
 [Project Specifications]({{site.baseurl}}/rpd_project){: .btn .bg-yellow-200 .text-grey-dk-250 }
 
