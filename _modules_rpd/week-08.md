@@ -8,7 +8,7 @@ M Aug 5
 : [Reading: Diamante Case Study](https://drive.google.com/drive/folders/1D6YhPsApxUp9Xnl8IXgPp6lbd4gYSx8N?usp=sharing){: target="\_blank"}
 : **Group**{: .label .label-group} Presentation Work
 
-Wed Aug 7
+W Aug 7
 : **Group**{: .label .label-group} **Project**{: .label .label-exam} **\*\*2-3:30pm\*\*** Final Presentations
 : &#183; [Classroom Earnestness](https://docs.google.com/presentation/d/183p0_y4v3nrfSDEFlkG9M9rm0cXTaBlDPycPQBxCI-w/edit?usp=drive_link){: target="\_blank"}
 <br/> &#183; [Disparities in Census Data](https://docs.google.com/presentation/d/1ts_3wbr69rlM16o47Tm4Eb-95a5frAXL/edit?usp=drive_link&ouid=113745915748997113650&rtpof=true&sd=true){: target="\_blank"}
