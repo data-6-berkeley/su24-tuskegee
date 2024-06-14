@@ -11,7 +11,5 @@ M Jul 15
 : [Project 3 Specifications]({{site.baseurl}}/rpd_project/#project-3-exploratory-data-analysis-python){:target="\_blank"}
 
 W Jul 17
-: **6**{: .label} **Scholars**{: .label .label-lab} Guest Speaker: [Sheila Humphreys](https://eecs.berkeley.edu/about/history/notable-women/humphreys){: target="\_blank"}, EECS Emerita Director of Diversity
-
-Th Jul 18
-: **Group**{: .label .label-group} EDA - Python
+: **Group**{: .label .label-group} **Project 3**{: .label .label-exam} EDA - Python
+: [Project 3 Specifications]({{site.baseurl}}/rpd_project/#project-3-exploratory-data-analysis-python){:target="\_blank"}

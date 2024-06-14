@@ -15,6 +15,3 @@ W Aug 7
 <br/> &#183; [Race and MLB](https://docs.google.com/presentation/d/1RzheujCVh1OWUhdx2OhlQtdgAU5SztbS/edit?usp=drive_link&ouid=113745915748997113650&rtpof=true&sd=true){: target="\_blank"}
 : **Event**{: .label .label-event} End-of-program Dinner at [Great China](https://goo.gl/maps/hgT23EFyGuohXnLM7){: target="\_blank"}, 6-8pm
 : [Exit Survey](https://docs.google.com/forms/d/e/1FAIpQLSfd3YhaFIpssWJXmFdXrTI2zNHum6HB1AcXiXWHB09uDnDqZw/viewform?usp=sf_link)
-
-Th Aug 8
-: **No class**

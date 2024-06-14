@@ -4,12 +4,10 @@ weekNumber: 3
 ---
 
 M Jul 1
-: **Group**{: .label .label-group} **Project 1**{: .label .label-exam} Lesson Plans
-: [Project 1 Specifications]({{site.baseurl}}/rpd_project/#project-1-reading-data-science-and-social-science-literature){:target="\_blank"}
+: **3**{: .label} **Scholars**{: .label .label-lab} [EDA with Spreadsheets](https://docs.google.com/presentation/d/1t7kLSjp7bKgDUUbeVzUEgauBS4b0DLzV45Ev_vtMv9s/edit?usp=sharing){: target="\_blank"}
+: **Group**{: .label .label-group} **Project 2**{: .label .label-exam} Intro to datasets / EDA
+: [Project 2 Specifications]({{site.baseurl}}/rpd_project/#project-2-exploratory-data-analysis){: target="\_blank"}
 
 W Jul 3
-: **Group**{: .label .label-group} **Project 1**{: .label .label-exam} Presentations
-: [Project 1 Specifications]({{site.baseurl}}/rpd_project/#project-1-reading-data-science-and-social-science-literature){:target="\_blank"}
-
-Th Jul 4
-: **Event**{: .label .label-event} An Afternoon @ Haas (with BUDS)
+: **Group**{: .label .label-group} **Project 2**{: .label .label-exam} Intro to datasets / EDA
+: [Project 2 Specifications]({{site.baseurl}}/rpd_project/#project-2-exploratory-data-analysis){: target="\_blank"}

@@ -10,8 +10,5 @@ M Jun 24
 : **Group**{: .label .label-group} Project reading
 
 W Jun 26
-: **Event**{: .label .label-event} Black Resource Center tour, 1:45pm
-
-Th Jun 27
 : **Group**{: .label .label-group} **Project 1**{: .label .label-exam} Finish Readings
 : [Project 1 Specifications]({{site.baseurl}}/rpd_project/#project-1-reading-data-science-and-social-science-literature){:target="\_blank"}
