@@ -4,11 +4,11 @@ weekNumber: 2
 ---
 
 M Jun 24
-: **2**{: .label} **Scholars**{: .label .label-scholars} [What is research? Reading research papers](https://docs.google.com/presentation/d/1Pmuytg2yd_fHfIQfU4xGTwufvF8KGtq1hHavegU4pUU/edit?usp=sharing){: target="\_blank"}
+: **2**{: .label} **Scholars**{: .label .label-scholars} What is research? Reading research papers
 : **Project 1**{: .label .label-exam} Specs released
-: [Project 1 Specifications]({{site.baseurl}}/rpd_project/#project-1-reading-data-science-and-social-science-literature){:target="\_blank"}
+  : Project 1 Specification
 : **Group**{: .label .label-group} Project reading
 
 W Jun 26
 : **Group**{: .label .label-group} **Project 1**{: .label .label-exam} Finish Readings
-: [Project 1 Specifications]({{site.baseurl}}/rpd_project/#project-1-reading-data-science-and-social-science-literature){:target="\_blank"}
+  : Project 1 Specifications

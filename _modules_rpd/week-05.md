@@ -5,11 +5,10 @@ weekNumber: 5
 
 M Jul 15
 : **5**{: .label} **Scholars**{: .label .label-lab} Vice Provost of Undergraduate Education, [Oliver O'Reilly](https://ue.berkeley.edu/about/oliver-m-oreilly){: target="\_blank"}
-: (no slides)
 : **Group**{: .label .label-group} **Project 2**{: .label .label-exam} Project 2 Checkoff Due
 : **Group**{: .label .label-group} **Project 3**{: .label .label-exam} EDA - Python
-: [Project 3 Specifications]({{site.baseurl}}/rpd_project/#project-3-exploratory-data-analysis-python){:target="\_blank"}
+  : Project 3 Specifications
 
 W Jul 17
 : **Group**{: .label .label-group} **Project 3**{: .label .label-exam} EDA - Python
-: [Project 3 Specifications]({{site.baseurl}}/rpd_project/#project-3-exploratory-data-analysis-python){:target="\_blank"}
+  : Project 3 Specifications

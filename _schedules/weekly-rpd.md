@@ -13,12 +13,12 @@ schedule:
         class: lab
         start: 12:00 PM
         end: 1:00 PM
-        location: Evans 45
+        location: Dwinelle 247
       - name: Group Work
         class: group-work
         start: 1:00 PM
         end: 2:00 PM
-        location: Evans 45
+        location: Dwinelle 247
   - name: Tuesday
   - name: Wednesday
     events:
@@ -26,7 +26,7 @@ schedule:
         class: group-work
         start: 12:30 PM
         end: 2:00 PM
-        location: Evans 45
+        location: Dwinelle 247
   - name: Thursday
   - name: Friday
 ---

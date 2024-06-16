@@ -4,17 +4,8 @@ weekNumber: 7
 ---
 
 M Jul 29
-: **9**{: .label} **Scholars**{: .label .label-lab} Philip Stark, Professor of Statistics
-: [HBO documentary](https://www.max.com/movies/2db0b3ac-71c8-442d-b427-acb3e084e02c){: target="\_blank"}, [slides](https://www.stat.berkeley.edu/~stark/Seminars/auditTuskegee23.slides.pdf){: target="\_blank"}
+: **9**{: .label} **Scholars**{: .label .label-lab} Guest Speaker TBD
 : **Group**{: .label .label-group} Research Exploration Work
 
-Tu Jul 30
-: **Event**{: .label .label-event} Microsoft Garage and Silicon Valley Visit
-
 W Jul 31
-: **10**{: .label} **Scholars**{: .label .label-lab} Ari Edmundson, Lecturer of History
-: [Reading: A Mulching Proposal](https://ironholds.org/resources/papers/mulching.pdf){: target="\_blank"}
-
-Th Aug 1
 : **Group**{: .label .label-group} Finish Research Exploration
-: **11**{: .label} **Scholars**{: .label .label-lab} Public Speaking and Communication

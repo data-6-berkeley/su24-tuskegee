@@ -17,7 +17,7 @@ nav_order: 4
 </div>
 
 <div>
-{% assign instructors = site.staffers | where: 'role', 'RPD Facilitator' %}
+{% assign instructors = site.staffers | where: 'role', 'Bootcamp Facilitator' %}
 <div class="role">
   {% for staffer in instructors %}
   {{ staffer }}
@@ -26,7 +26,16 @@ nav_order: 4
 </div>
 
 <div>
-{% assign instructors = site.staffers | where: 'role', 'Bootcamp Facilitator' %}
+{% assign instructors = site.staffers | where: 'role', 'Bootcamp Facilitator/Seminar Assistant' %}
+<div class="role">
+  {% for staffer in instructors %}
+  {{ staffer }}
+  {% endfor %}
+</div>
+</div>
+
+<div>
+{% assign instructors = site.staffers | where: 'role', 'Seminar Assistant' %}
 <div class="role">
   {% for staffer in instructors %}
   {{ staffer }}
