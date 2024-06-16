@@ -9,7 +9,7 @@ currWeekNumber: 1
 
 # Research and Discovery Seminar
 
-[Project Specifications]({{site.baseurl}}/rpd_project){: .btn .bg-yellow-200 .text-grey-dk-250 }
+[Project Specifications]({{site.baseurl}}/project){: .btn .bg-yellow-200 .text-grey-dk-250 }
 
 **Room:** Dwinelle 247 ([map](https://maps.app.goo.gl/NtTEMabyopGyQU1u6))
 
