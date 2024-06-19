@@ -42,3 +42,12 @@ nav_order: 4
   {% endfor %}
 </div>
 </div>
+
+<div>
+{% assign instructors = site.staffers | where: 'role', 'Data C88C Academic Facilitator' %}
+<div class="role">
+  {% for staffer in instructors %}
+  {{ staffer }}
+  {% endfor %}
+</div>
+</div>
