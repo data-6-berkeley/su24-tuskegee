@@ -28,7 +28,7 @@ Th Jun 20
    : 
 [Slides](https://docs.google.com/presentation/d/1nYIk9jARREZd5lLMBIYpGP84dbl6ZE2zMMYhK_LNRJQ/edit?usp=sharing){: target="_blank"} &#8226; 
 [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu24-bootcamp&branch=main&urlpath=tree%2Fsu24-bootcamp%2Flecture%2Flec03%2Flec03.ipynb){: target="_blank"}
-: **Lab 2**{: .label .label-lab} [Functions] (https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu24-bootcamp&branch=main&urlpath=tree%2Fsu24-bootcamp%2Flab%2Flab02%2Flab02-functions.ipynb){: target="_blank"}
+: **Lab 2**{: .label .label-lab} [Lab 2: Functions] (https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu24-bootcamp&branch=main&urlpath=tree%2Fsu24-bootcamp%2Flab%2Flab02%2Flab02-functions.ipynb){: target="_blank"}
 : *Optional Reading*: [1.5.4 Conditional Statements](http://composingprograms.com/pages/14-designing-functions.html)
 
 F Jun 21
