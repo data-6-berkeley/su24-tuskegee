@@ -33,5 +33,8 @@ Th Jun 20
 
 F Jun 21
 : **4**{: .label} Print, None, and Conditions
-: **Lab 3**{: .label .label-lab} Control
+  : 
+[Slides](https://docs.google.com/presentation/d/1t0UrxbrwBb9lg0rB-B9pwbgmciJ1vvDQyHHUhnXOjQ0/edit?usp=sharing){: target="_blank"} &#8226; 
+[Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu24-bootcamp&branch=main&urlpath=tree%2Fsu24-bootcamp%2Flecture%2Flec04%2Flec04.ipynb){: target="_blank"}
+: **Lab 3**{: .label .label-lab} [Lab 3: Control](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu24-bootcamp&branch=main&urlpath=tree%2Fsu24-bootcamp%2Flab%2Flab03%2Flab03-control.ipynb){: target="_blank"}
 
