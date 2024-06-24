@@ -3,12 +3,16 @@ title: Week 2
 weekNumber: 2
 ---
 
+Su Jun 23
+: **Event**{: .label .label-event} Tour of [GLIDE](https://www.glide.org/), San Francisco
+
 M Jun 24
 : **2**{: .label} **Scholars**{: .label .label-scholars} What is research? Reading research papers
-: **Project 1**{: .label .label-exam} Specs released
-  : Project 1 Specification
-: **Group**{: .label .label-group} Project reading
+: **Group**{: .label .label-group} Milestone 1 work
 
 W Jun 26
-: **Group**{: .label .label-group} **Project 1**{: .label .label-exam} Finish Readings
-  : Project 1 Specifications
+: **Group**{: .label .label-group} **Milestone 1**{: .label .label-exam} Finish Readings
+  : Milestone 1 Specifications
+
+F Jun 28
+: **Event**{: .label .label-event} D-Lab Tour with Executive Director [Claudia von Vacano](https://cdss.berkeley.edu/people/claudia-von-vacano-0)

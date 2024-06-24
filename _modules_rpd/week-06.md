@@ -4,10 +4,9 @@ weekNumber: 6
 ---
 
 M Jul 22
-: **7**{: .label} **Scholars**{: .label .label-lab} Guest Speaker TBD
-: **Group**{: .label .label-group} EDA - Python
+: **Group**{: .label .label-group} (12-1pm, **before** guest lecture!) Reading activity
+: **6**{: .label} **Scholars**{: .label .label-lab} Chair of Sociology, [Dave Harding](https://sociology.berkeley.edu/faculty/david-j-harding)
 
 W Jul 24
-: **Group**{: .label .label-group} **Project 3**{: .label .label-exam} Due (Checkoff)
-: **Group**{: .label .label-group} **Final Project**{: .label .label-exam} Specifications Released
-  : Presentation Specifications
+: **Group**{: .label .label-group} Milestone 3 work
+: **Group**{: .label .label-group} **Project 3**{: .label .label-exam} Checkoff

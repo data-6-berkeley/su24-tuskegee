@@ -39,7 +39,7 @@ We expect there to be little commitment outside of the scheduled 4 hours.
 
 ---
 
-## [Project 1] Reading Data Science and Social Science Literature
+## [Project Milestone 1] Reading Data Science and Social Science Literature
 
 **IN PROGRESS**
 
