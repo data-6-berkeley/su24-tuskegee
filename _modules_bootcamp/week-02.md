@@ -5,8 +5,10 @@ title: Week 2
 
 M Jun 24
 : **5**{: .label} Iteration For and While Loops
-: **Lab 3**{: .label .label-lab} Control, continued
-: **Lab 4**{: .label .label-lab} Iteration
+  : 
+[Slides](https://docs.google.com/presentation/d/1zcdRUVrOlzzpck3Oz8hgSEQhccOiNMarfkkPRkIJYZs/edit?usp=sharing){: target="_blank"} &#8226;
+[Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu24-bootcamp&branch=main&urlpath=tree%2Fsu24-bootcamp%2Flecture%2Flec05%2Flec05.ipynb){: target="_blank"}
+: **Lab 4**{: .label .label-lab} [Lab 4: Iteration](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu24-bootcamp&branch=main&urlpath=tree%2Fsu24-bootcamp%2Flab%2Flab04%2Flab04-iteration.ipynb){: target="_blank"}
 : *Optional Reading*: [1.5.5 Iteration](http://composingprograms.com/pages/15-control.html#iteration), [2.3.2 (Ranges only)](http://composingprograms.com/pages/23-sequences.html#sequence-iteration)
 
 Tu Jun 25
