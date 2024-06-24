@@ -104,7 +104,7 @@ Conduct initial EDA, settle on a few datasets, and propose a more precise resear
 
 -->
 
-## [Project 3] Exploratory Data Analysis, Python
+## [Milestone 3] Exploratory Data Analysis, Python
 
 Continue EDA, use Python to create visualizations, and make progress towards your research question.
 
