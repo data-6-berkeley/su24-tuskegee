@@ -8,11 +8,11 @@ Su Jun 23
 
 M Jun 24
 : **2**{: .label} **Scholars**{: .label .label-scholars} What is research? Reading research papers
-: **Group**{: .label .label-group} Milestone 1 work
+: **Group**{: .label .label-group} **Milestone 1**{: .label .label-exam} Reading a research paper
+  : Milestone 1 Specifications
 
 W Jun 26
-: **Group**{: .label .label-group} **Milestone 1**{: .label .label-exam} Finish Readings
-  : Milestone 1 Specifications
+: **Group**{: .label .label-group} Milestone 1 work
 
 F Jun 28
 : **Event**{: .label .label-event} D-Lab Tour with Executive Director [Claudia von Vacano](https://cdss.berkeley.edu/people/claudia-von-vacano-0)

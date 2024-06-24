@@ -39,82 +39,53 @@ We expect there to be little commitment outside of the scheduled 4 hours.
 
 ---
 
-## [Project Milestone 1] Reading Data Science and Social Science Literature
+## [Milestone 1] Reading Data Science and Social Science Literature
 
-**IN PROGRESS**
-
-<!--
-<ul>
-<li><a href="#required-readings" id="markdown-toc-required-readings">Required Readings</a></li>
-<li><a href="#lesson-plan-for-discussion-activity" id="markdown-toc-lesson-plan-for-discussion-activity">Lesson Plan for Discussion Activity</a></li>
-<li><a href="#submission" id="markdown-toc-submission">Submission</a></li>
-</ul>
-
-**Due**:			Wednesday, July 5, as a presentation
-
-**Expected Work Time**: 		During work time on Monday and Thursday.
-  * Week 2: Get through half of topic readings and pedagogy readings.
-  * Week 3, Monday: Work through lesson plan and finish slides.
-  * Week 3, Thursday: Deliver presentations and submit Google Slides.
+**Due**:			Wednesday, June 26, as a presentation
 
 **Project links**:
 
-* Project one-pager: [One-Pager](https://docs.google.com/document/d/1RS8NqVDn5QWa2qUsq6RCtmi95dObMl2wbqf0kEInS8k/edit?usp=sharing){: target="_blank"}
-* Fill out your form here: [https://tinyurl.com/su23-rpd-project](https://tinyurl.com/su23-rpd-project){: target="_blank"}
-* Group/Topic assignments: [Group sheet](https://docs.google.com/spreadsheets/d/1ct7rQuHV6RgbWBtAb1CSCdUnneoMX-8QZhV-kmw540w/edit?usp=sharing)
+* Project one-pager: [One-Pager](https://docs.google.com/document/d/1-Mf3D80JXK6Nm97RjowK-8eHtgT1S5iSRVFuUIG6Pao/edit?usp=sharing){: target="_blank"}
+* Group/Topic assignments: [Group sheet](https://docs.google.com/spreadsheets/d/1R-gkvniZq-OB97MUK5xifbyIFtKmTp4HR34JF5P9T0c/edit?usp=drive_link)
+* Project adapted from Stanford CS197 Assignment 1 [link](https://web.stanford.edu/class/cs197/assignments/a1.html)
+
+**Read a paper and outline its argument and structure.**
+
+Research gets transmitted in many forms — demos, code, talks, and more — but its formal report most often occurs through a written paper. The paper explains the problem, the approach, and an evaluation. When ready, the academic submits the paper for review by other academics; once it passes this peer review process, the paper appears at a venue such as conference or journal. Since most research is disseminated in the form of papers, it's critical to be able to read research papers and make sense of them.
 
 
-### Required Readings
-Topic-based: [https://tinyurl.com/su23-rpd-project](https://tinyurl.com/su23-rpd-project)
+Each group has one starter research paper. Find yourself a quiet place and work your way through it. Don't worry if you can't understand every detail; focus on understanding the paper's big ideas and how they are argued. It can take time to read a paper — don't feel discouraged if it takes you a long time.
 
-Pedagogy-based:
-* [Tools for Teaching](https://drive.google.com/file/d/1pisWNHtrfKiBd_8a-vsBuqv0sdK6QB2S/view?usp=sharing), (p. 97-p.101, PDF 115-119). Read up to and including “Starting a Discussion."
-* How to Write Learning Outcomes [https://teaching.berkeley.edu/resources/design/course-level-learning-goalsoutcomes](https://teaching.berkeley.edu/resources/design/course-level-learning-goalsoutcomes){:target="_blank"}
-* (Optional) Deborah Nolan and Sara Stoudt. [Communicating with Data: The Art of Writing for Data Science](https://drive.google.com/file/d/1pisWNHtrfKiBd_8a-vsBuqv0sdK6QB2S/view?usp=sharing). 2001. (log in with [UC Berkeley library proxy](https://guides.lib.berkeley.edu/ezproxy/browser-bookmarklet))
 
 ### Deliverable: Google Slides and Presentation
 {:.no_toc}
 
-Your Google Slide deck should have at least the following (max 15 slides):
+Your Google Slide deck should outline the paper and provide additional research context. While these slides will not be presented anywhere, the Faculty Director will review all slides as part of the **Project Checkoff** and ask you questions.
 
-* Slide: History of the topic
-* Slide: Current public opinion
-* Slide: Research example
-* Slide: Bio of a prominent researcher in the field at the intersection of society and data science
-* Slide: Lesson plan for discussion activity
+Outline of paper (one slide per bullet)
+* Overview: What paper did you read? Who are its authors, and what institution(s) are they affiliated with?
+* Problem: What problem is it solving? Why does this problem matter?
+* Assumption in prior work: What was the assumption that prior research made when solving this problem? Why was that assumption inadequate?
+* Insight: What is the novel idea that this paper introduces, breaking from that prior assumption? Alternatively, how does this paper synthesize prior research?
+* Proof: How did the paper evaluate or prove that its insight is correct, and better than holding onto the old assumption?
+  * Visualization: What visualizations did the paper use to illustrate its proof? Share a figure that is meaningful to the thesis of the paper.
+* Impact: What are the implications of this paper? How will it chnage how we think about the problem?
 
-**Presentation**: You will present these slides to the other groups in Week 3. The presentation should be **10 minutes**, and every group member should present. <del><b>These slides will not be presented anywhere!</b> The slides format is just to organize your thoughts. Feel free to add slides as necessary.</del>
+Additional research context (one slide per bullet):
+* Summaries of recent current event articles relevant to this work
+* Bio of a prominent researcher in the field at the intersection of society and data science
 
-### Lesson Plan for Discussion Activity
-
-Outline a 15-minute introductory discussion that encourages students to discuss what they learned from the above readings. In particular, write a lesson plan for an instructor that includes the main takeaway point for students from this exercise. Discussion will be 50 minutes total, so this is the opening 1/4th of class. There should be several parts of this lesson:
-
-* Reading list for students
-* Lesson plan (see below):
-    * How will you introduce the discussion section?
-    * How will you structure the discussion of the question(s)? In groups, pairs, as a class? Will you have time to review as a class?
-    * Share the main takeaway you will repeat for the students at the end of activity.
-
-To answer the above, you should present a slide addressing the following table:
-
-| Category | Description |
-| --- | --- |
-| **Student Required Readings** | Pick at most 3 readings that students should read prior to discussion that will illuminate a particular dataset in the context of society. This may be a subset of the ones we provided, or you can pick your own from reputable sources.<br/>The readings should describe the topic itself, the current public opinion, any historical context, and a recent research study using the dataset.<br/>Readings should take about 1 hour, maximum. |
-| **Introduction**<br/>(5 minutes) | How will you introduce the discussion section? |
-| **Recall Activity**<br/>(10 minutes) | Pose a question you to get students positioned and warmed up to discuss. It often involves students “recalling” what was in their required readings. | 
-| **Activity structure** | How will you structure the discussion of this question(s)? In small groups, pairs, as a class? Will you have time to review as a class before or after the activity? |
-| **Learning Goal/Outcome** | Write a sentence for the instructor-facing lesson plan, e.g., “By the end of this activity, students will be able to…” (see [Action Verbs](https://teaching.berkeley.edu/resources/design/course-level-learning-goalsoutcomes){:target="_blank"}) |
-| **Main Takeaway**<br/>(2 minutes) | Share the main student-facing takeaway that you will repeat for the students at the end of activity. | 
+Additional readings (one slide):
+* Suggest and summarize **three (3) additional readings** that provide additional context to your research question. At least one should be a research papers; the other two can be news articles or blog posts.
 
 ### Submission
-
-Send the Google Slides through Slack. Also deliver a presentation to the seminar as above.
-
--->
+Share the Google Slides with Faculty Director Lisa Yan by Wednesday Week 2.
 
 ---
 
-## [Project 2] Exploratory Data Analysis
+## [Milestone 2] Exploratory Data Analysis
+
+Conduct initial EDA, settle on a few datasets, and propose a more precise research question and an associated visualization.
 
 **IN PROGRESS**
 
@@ -134,6 +105,8 @@ Send the Google Slides through Slack. Also deliver a presentation to the seminar
 -->
 
 ## [Project 3] Exploratory Data Analysis, Python
+
+Continue EDA, use Python to create visualizations, and make progress towards your research question.
 
 **IN PROGRESS**
 
@@ -183,6 +156,10 @@ Describe particular norms an instructor should establish during this discussion,
 ---
 
 ## [Presentation] Final Presentation
+
+Construct a 60-second elevator pitch that summarizes your research project.
+
+Build and edit your slides from Project 1 to include EDA findings and social context discussion questions. The final presentation should be a standalone slide deck that can be shared with others.
 
 **IN PROGRESS**
 
