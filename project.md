@@ -48,6 +48,7 @@ We expect there to be little commitment outside of the scheduled 4 hours.
 * Project one-pager: [One-Pager](https://docs.google.com/document/d/1-Mf3D80JXK6Nm97RjowK-8eHtgT1S5iSRVFuUIG6Pao/edit?usp=sharing){: target="_blank"}
 * Group/Topic assignments: [Group sheet](https://docs.google.com/spreadsheets/d/1R-gkvniZq-OB97MUK5xifbyIFtKmTp4HR34JF5P9T0c/edit?usp=drive_link)
 * Project adapted from Stanford CS197 Assignment 1 [link](https://web.stanford.edu/class/cs197/assignments/a1.html)
+* Guided Reading Form [link](https://docs.google.com/document/d/1Y1MhzrGzK-Il0kXfTjgb_-cgQbbsaKyQ/edit?usp=sharing&ouid=113745915748997113650&rtpof=true&sd=true)
 
 **Read a paper and outline its argument and structure.**
 
