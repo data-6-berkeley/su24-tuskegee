@@ -10,3 +10,6 @@ M Jul 22
 W Jul 24
 : **Group**{: .label .label-group} Milestone 3 work
 : **Group**{: .label .label-group} **Project 3**{: .label .label-exam} Checkoff
+
+F Jul 26
+: **Event**{: .label .label-group} SF Giants Game
