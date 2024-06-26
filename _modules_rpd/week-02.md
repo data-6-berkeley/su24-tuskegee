@@ -14,5 +14,8 @@ M Jun 24
 W Jun 26
 : **Group**{: .label .label-group} Milestone 1 work
 
+Th Jun 27
+: **Event**{: .label .label-event} (11am-12pm) Executive Director [Claudia von Vacano](https://cdss.berkeley.edu/people/claudia-von-vacano-0)
+
 F Jun 28
-: **Event**{: .label .label-event} D-Lab Tour with Executive Director [Claudia von Vacano](https://cdss.berkeley.edu/people/claudia-von-vacano-0)
+: **Event**{: .label .label-event} (1pm-2pm) D-Lab Tour, meet at D-Lab/350 Social Sciences Building ([map](https://maps.app.goo.gl/d59x358F8yipaqvHA))

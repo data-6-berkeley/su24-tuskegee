@@ -29,4 +29,9 @@ schedule:
         location: Dwinelle 247
   - name: Thursday
   - name: Friday
+    events:
+      - name: Events (time varies)
+        class: discussion
+        start: 1:00 PM
+        end: 2:00 PM
 ---
