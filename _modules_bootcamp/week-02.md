@@ -19,7 +19,7 @@ Tu Jun 25
 W Jun 26
 : **7**{: .label} Higher Order Functions
   : 
-[Slides](https://docs.google.com/presentation/d/1zcdRUVrOlzzpck3Oz8hgSEQhccOiNMarfkkPRkIJYZs/edit?usp=sharing){: target="_blank"} &#8226;
+[Slides](https://docs.google.com/presentation/d/1PHmuItllR-rW1WFLnx2L_iaGVZv5wS0USKp3xidFc7c/edit?usp=sharing){: target="_blank"} &#8226;
 [Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu24-bootcamp&branch=main&urlpath=tree%2Fsu24-bootcamp%2Flecture%2Flec06%2Flec06.ipynb){: target="_blank"}
 : **Lab 5**{: .label .label-lab} [Lab 5: Higher Order Functions](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu24-bootcamp&branch=main&urlpath=tree%2Fsu24-bootcamp%2Flab%2Flab05%2Flab05-higher-order-functions.ipynb){: target="_blank"}
 
