@@ -101,7 +101,7 @@ Conduct initial Exploratory Data Analysis (EDA), settle on a few datasets, and p
 
 * Create a Google Slides slidedeck that is also stored in your Google Drive. This will be your eventual deliverable.
 
-* Find **at least 2** datasets that you would like to analyze as part of your research. Put in your slidedeck your answers to the following EDA questions (based off of seminar slides this week):
+* Find **at least 2** datasets that you would like to analyze as part of your research. Put in your slidedeck your answers to the following EDA questions (based off of seminar slides this week), for each dataset that you pick:
 
   * **Structure**: Is the dataset readily available in a rectangular shape? 
   * **Granularity**: What does each record represent? A person, a group of people? If a group, how is the group defined? Do all records capture granularity at the same level?
