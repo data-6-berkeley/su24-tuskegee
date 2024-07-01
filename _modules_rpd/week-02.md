@@ -9,7 +9,7 @@ Su Jun 23
 M Jun 24 
 : **2**{: .label} **Scholars**{: .label .label-scholars} [What is research? Reading research papers](https://docs.google.com/presentation/d/1Pmuytg2yd_fHfIQfU4xGTwufvF8KGtq1hHavegU4pUU/edit)
 : **Group**{: .label .label-group} **Milestone 1**{: .label .label-exam} Reading a research paper
-  : Milestone 1 Specifications
+  : [Milestone 1 Specifications](../project#milestone-1-reading-data-science-and-social-science-literature)
 
 W Jun 26
 : **Group**{: .label .label-group} Milestone 1 work

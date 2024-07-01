@@ -86,7 +86,45 @@ Share the Google Slides with Faculty Director Lisa Yan by Wednesday Week 2.
 
 ## [Milestone 2] Exploratory Data Analysis
 
-Conduct initial EDA, settle on a few datasets, and propose a more precise research question and an associated visualization.
+Conduct initial Exploratory Data Analysis (EDA), settle on a few datasets, and propose a more precise research question and an associated visualization.
+
+**Due**:			Wednesday, July 10, as a presentation
+
+**By the end of Week 3 (July 3)**: Explore and understand how to obtain your data. Document this process.
+
+* Create a Google Drive that is shared with Lisa and your group. Title the Google Drive with your team name.
+
+* Create a Google Slides slidedeck that is also stored in your Google Drive. This will be your eventual deliverable.
+
+* Find **at least 2** datasets that you would like to analyze as part of your research. Put in your slidedeck your answers to the following EDA questions (based off of seminar slides this week):
+
+  * **Structure**: Is the dataset readily available in a rectangular shape? 
+  * **Granularity**: What does each record represent? A person, a group of people? If a group, how is the group defined? Do all records capture granularity at the same level?
+  * **Scope** Does the dataset cover your area of interest? Consider both physical and temporal definitions of scope.
+  * **Temporality**: When was the data collected/last updated? What is the meaning of time/date fields, if they exist?
+  * **Faithfulness**: Are there specific missing values in your data? Spot-check with a few records: are there unrealistic/incorrect values? could data be potentially falsified or entered incorrectly (e.g., people's names)? What data is missing that you may want to additionally collect?
+
+* Create 2-3 questions that you may need to plot visualizations in order to answer. List these questions in your slidedeck.
+
+* **Data wrangling**: Store any structured rectangular data you have as Google Spreadsheets/CSV files within your Google Drive. If you need to wrangle your data to be in a rectangular form, do so, and document your process as needed.
+
+* (Wed 7/3, link TBD) Schedule a consultation with D-Lab. Each individual should submit their own form; D-Lab consultants may choose to schedule consultations individually or with the entire group.
+
+**By the end of Week 4 (July 10)**: Prepare your slidedeck for checkoff.
+
+* Complete the D-Lab consultation, and take notes about the meeting.
+* Answer the 2-3 questions you proposed that required visualizations. Include your visualizations in your slidedeck.
+* Compile the deliverable (see below).
+
+### Deliverable: Google Slides
+
+A slidedeck is a good method to transmit your ideas clearly to other folks who may occasionally check into your work. You should compile at least 5 Google Slides
+* One slide shares your methodology/how to find your dataset
+* One slide shares any takeaways from your meeting with D-Lab consultants.
+* One slide answers the initial (non-visualization) questions you proposed.
+* The remaining 2 slides are different visualizations along with a sentence or two describing the takeaways.
+
+Your visualizations can be created in Google Sheets or with Python (which is part of Milestone 3).
 
 **IN PROGRESS**
 
