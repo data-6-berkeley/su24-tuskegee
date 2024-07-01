@@ -88,6 +88,11 @@ Share the Google Slides with Faculty Director Lisa Yan by Wednesday Week 2.
 
 Conduct initial Exploratory Data Analysis (EDA), settle on a few datasets, and propose a more precise research question and an associated visualization.
 
+**Project links**:
+
+* Project one-pager: [One-Pager](https://docs.google.com/document/d/1-Mf3D80JXK6Nm97RjowK-8eHtgT1S5iSRVFuUIG6Pao/edit?usp=sharing){: target="_blank"}
+* Group/Topic assignments: [Group sheet](https://docs.google.com/spreadsheets/d/1R-gkvniZq-OB97MUK5xifbyIFtKmTp4HR34JF5P9T0c/edit?usp=drive_link)
+
 **Due**:			Wednesday, July 10, as a presentation
 
 **By the end of Week 3 (July 3)**: Explore and understand how to obtain your data. Document this process.
