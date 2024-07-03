@@ -16,6 +16,7 @@ W Jun 26
 
 Th Jun 27
 : **Event**{: .label .label-event} (11am-12pm) Executive Director [Claudia von Vacano](https://cdss.berkeley.edu/people/claudia-von-vacano-0)
+  : [slides](https://docs.google.com/presentation/d/1Zhs3_FP4uopgRErnYXXRuVtrGdZLSbitdQLYsfqNaVE/edit?usp=sharing){:target="\_blank"}
 
 F Jun 28
 : **Event**{: .label .label-event} (1pm-2pm) D-Lab Tour, meet at D-Lab/350 Social Sciences Building ([map](https://maps.app.goo.gl/d59x358F8yipaqvHA))

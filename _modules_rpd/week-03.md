@@ -11,3 +11,5 @@ M Jul 1
 
 W Jul 3
 : **Group**{: .label .label-group} Milestone 2 work
+: **Event**{: .label .label-event} Claudia von Vacano, Social Science Research Methods
+  : [slides](https://docs.google.com/presentation/d/1F3-r6289v6spyFADc6EDdNJjWG_x8Vva7HlxrYqvT6w/edit?usp=sharing){:target="_blank"}
