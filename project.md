@@ -92,6 +92,7 @@ Conduct initial Exploratory Data Analysis (EDA), settle on a few datasets, and p
 
 * Project one-pager: [One-Pager](https://docs.google.com/document/d/1-Mf3D80JXK6Nm97RjowK-8eHtgT1S5iSRVFuUIG6Pao/edit?usp=sharing){: target="_blank"}
 * Group/Topic assignments: [Group sheet](https://docs.google.com/spreadsheets/d/1R-gkvniZq-OB97MUK5xifbyIFtKmTp4HR34JF5P9T0c/edit?usp=drive_link)
+* D-Lab Consultation form: [https://dlab.berkeley.edu/scholar-consult](https://dlab.berkeley.edu/scholar-consult)
 
 **Due**:			Wednesday, July 10, as a presentation
 
