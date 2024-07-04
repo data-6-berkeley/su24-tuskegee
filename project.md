@@ -113,7 +113,7 @@ Conduct initial Exploratory Data Analysis (EDA), settle on a few datasets, and p
 
 * **Data wrangling**: Store any structured rectangular data you have as Google Spreadsheets/CSV files within your Google Drive. If you need to wrangle your data to be in a rectangular form, do so, and document your process as needed.
 
-* (Wed 7/3, link TBD) Schedule a consultation with D-Lab. Each individual should submit their own form; D-Lab consultants may choose to schedule consultations individually or with the entire group.
+* Schedule a consultation with D-Lab. Each individual should submit their own form; D-Lab consultants may choose to schedule consultations individually or with the entire group. Form link: [https://dlab.berkeley.edu/scholar-consult](https://dlab.berkeley.edu/scholar-consult)
 
 **By the end of Week 4 (July 10)**: Prepare your slidedeck for checkoff.
 
