@@ -132,71 +132,22 @@ A slidedeck is a good method to transmit your ideas clearly to other folks who m
 
 Your visualizations can be created in Google Sheets or with Python (which is part of Milestone 3).
 
-**IN PROGRESS**
-
-<!--
-**Due**:			Monday July 17, end of seminar (tentatively)
-
-**Expected Work Time**:
-  * Monday 7/10: Look through data and get through half of questions.
-  * Thursday 7/13: Explore rest of questions, begin looking at own questions (at least two). Start compiling Google Slides with findings by Friday.
-  * Monday 7/17: Get slides checked off.
-
-**Questions**: [link](https://docs.google.com/document/d/12ZQ7B7sSaoOc8ss2YZF0uxOQ5AGzmXmBuA8SXC5nPJw/edit?usp=drive_link){: target="_blank"}
-**Data**: [Google Drive link](https://drive.google.com/drive/folders/1X8ka13kYRvAbBgIa-tWbUbL03KS-Dloc?usp=drive_link){: target="_blank"}
-
----
-
--->
-
-## [Milestone 3] Exploratory Data Analysis, Python
+## [Milestone 3] Exploratory Data Analysis, Python, and independent research question
 
 Continue EDA, use Python to create visualizations, and make progress towards your research question.
 
-**IN PROGRESS**
-
-<!--
-**Due**:			Thursday July 27, middle of seminar (tentatively)
+**Due**:			Monday July 29
 
 **Expected Work Time**:
-  * Monday 7/17: Finish Colab setup; get slides checked off. Reproduce 2 figures from Google Sheets.
-  * Thursday 7/20: Continue work.
-  * Monday 7/24: Reproduce all of figures from Google Sheets, and start exploring 2 new figures or tables in Python.
-  * Thursday 7/27: Finish up and get checked off.
+  * Monday 7/15: Finish Colab setup; Reproduce 2 figures from Google Sheets.
+  * Thursday 7/17: Continue work. Start exploring 2 new figures or tables in Python.
+  * Monday 7/22: Sociology activity with Dave Harding
+  * Wednesday 7/24: Identify an additional research question.
+  * Monday 7/29: Get checked off.
 
 **Note**: The `datascience` library has different plotting styles from Google Sheets. When "reproducing"  figure/plot, we expect that you will take considerable time getting the right tables and columns for plotting, then choosing the right arguments for `datascience` library functions. Here are the function reference sheets for [Data 8](http://data8.org/su22/python-reference.html){: target="_blank"} and [Data 6](https://data6.org/su22/reference/){:target="_blank"}.
 
-It is less important to reproduce the formatting of the plot-- in fact doing so requires advanced plotting knowledge beyond the scope of Data 6/Data 8.
--->
-
-<!--
----
-
-## [Project 4] Social and Ethical Implications of Data
-
-### Discussion Question 2: Social and Behavioral Science Methodology
-{:.no_toc}
-
-**Due**:			(n/a, bundled into final presentation)
-
-**Expected Work Time**:
-  * Tuesday 8/2: Discussion building
-  * 
-  * Tuesday 7/19: Guest speaker; finish Colab setup; get slides checked off
-  * Friday 7/22: Reproduce 2 figures from Google Sheets. UC Berkeley UGSIs switch to teaching role so that Tuskegee Scholars do bulk of programming
-  * Tuesday 7/26: Guest speaker; start exploring new figure
-  * Friday 7/29: Get slides and code checked off (Deb and Lisa to sit down and review code with each Tuskegee Scholar)
-
-Questions:
-* Pick 3-4 variables in the dataset and describe its conceptualization (from concept to variable definition) and operationalization (measurement and data collection).
-* How were the data collectors/scientists connected to the population of interest? How may the historical context have impacted the data collection, reports, and policy decisions?
-
-### Lesson plan details
-{:.no_toc}
-
-Describe particular norms an instructor should establish during this discussion, and what role the discussion facilitator should play. Are there any key terms a student should remember? How can an instructor guide the conversation away from criticism and towards constructive design?
--->
-
+It is less important to reproduce the formatting of the plot-- in fact doing so requires advanced plotting knowledge beyond the scope of Data 6/Data 8. UC Berkeley students can explain pandas as needed.
 
 ---
 
@@ -206,16 +157,11 @@ Construct a 60-second elevator pitch that summarizes your research project.
 
 Build and edit your slides from Project 1 to include EDA findings and social context discussion questions. The final presentation should be a standalone slide deck that can be shared with others.
 
-**IN PROGRESS**
-
-<!--
-Build and edit your slides from Project 1 to include EDA findings and social context discussion questions. The final presentation should be a standalone slide deck that can be shared with future discussion instructors.
-
 **Expected Work Time**:
-  * Friday 7/29: Get slides and code checked off (Deb and Lisa to sit down and review code with each Tuskegee Scholar)
-  * Thursday 8/3: Finish EDA/question exploration
-  * Monday 8/7: Work on final presentation
-  * **Wednesday 8/9**: Final Presentations. **3-4:30pm**
+  * Monday 7/29: Explore additional research direction.
+  * Wednesday 7/31: Continue exploring additional research direction.
+  * Outside of class: Work on research slides.
+  * **Monday 8/5**: Final Presentations.
 
 
 **Timing and slide limit**:
@@ -229,11 +175,7 @@ Build and edit your slides from Project 1 to include EDA findings and social con
       * Everyone is expected to remember their elevator pitch by latest Monday 8/7.
       * One person should deliver the elevator pitch out loud during the Wednesday presentations, but everyone is expected to remember and be able to recite the group elevator pitch by end of class on Monday 8/7.
     * Pleae include whatever else in your introduction that would provide a powerful motivation of your research problem.
-* **Discussion activity**: A summary of your Project 1.
-    * Required readings for students.
-      * Pick at most 3 readings that students should read prior to discussion that will illuminate a particular dataset in the context of society. This may be a subset of the ones we provided, or you can pick your own from reputable sources.<br/>The readings should describe the topic itself, the current public opinion, any historical context, and a recent research study using the dataset.<br/>Readings should take about 1 hour, maximum.
-      * It would be useful to give a one-sentence verbal explanation about the purpose of each of the readings in building student knowledge (e.g., original research study, explains dataset, is an opinion article, etc.).
-    * Outline of a discusison question (Projects 1 and below social context questions)
+* **Literature review**: A summary of your Project 1.
 * **Exploratory Data Analysis**: A summary of your Project 2.
     * Python figures only that answer the questions originally posed to you.
 * **Independent research question** and paired visualization.
@@ -244,27 +186,3 @@ Build and edit your slides from Project 1 to include EDA findings and social con
 * Reference slides (not covered, but included in the presentation)
     * Required readings for students and instructors
     * Anything you read that you think an instructor or researcher would find useful, but would possibly be too in-depth for a student
-    -->
-
-<!--
-
----
-
-## [Project 4] Constructing computing problems
-
-Build a Jupyter notebook that has both the question/skeleton code and solutions for the two exercises below.
-
-### Checkpoint
-Identify the core library function and the core computation concept respectively for the two exercises below.
-
-### Lab Exercise 1: The `datascience` Module
-{:.no_toc}
-
-Use 1-2 datascience module functions to construct a plot that demonstrates a facet of the data in the context of the findings from readings/discussion activities.
-
-### Lab Exercise 2: A computational problem
-{:.no_toc}
-
-Compute a rate, proportion, or statistic that uses loops and/or conditional statements that demonstrates a facet of the data in the context of the findings from readings/discussion activities.
-
--->
