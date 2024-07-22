@@ -5,7 +5,7 @@ weekNumber: 6
 
 M Jul 22
 : **Group**{: .label .label-group} (12-1pm, **before** guest lecture!) Reading activity
-  : [Reading: Diamante Case Study](https://drive.google.com/drive/folders/1D6YhPsApxUp9Xnl8IXgPp6lbd4gYSx8N?usp=sharing){: target="_blank"}
+  : [Reading: Diamante Case Study](https://drive.google.com/drive/folders/18TfY9hUEQyayR3pg4kIlAo8sfyqvFSYh?usp=drive_link){: target="_blank"}
 : **6**{: .label} **Scholars**{: .label .label-lab} Chair of Sociology, [Dave Harding](https://sociology.berkeley.edu/faculty/david-j-harding)
 
 Tu Jul 23
