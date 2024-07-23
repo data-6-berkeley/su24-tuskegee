@@ -9,7 +9,7 @@ M Jul 22
 : **6**{: .label} **Scholars**{: .label .label-lab} Chair of Sociology, [Dave Harding](https://sociology.berkeley.edu/faculty/david-j-harding)
 
 Tu Jul 23
-: **Event**{: .label .label-event} (2-3pm, Berkeley Way West, Room TBD) School of Public Health and the UC Berkeley/UCSF Joint Medical Program with [Leanna Lewis](https://meded.ucsf.edu/current-students/education-programs/prime-us-program/about-prime-us/our-leadership)
+: **Event**{: .label .label-event} (2-3pm, [Berkeley Way West](https://maps.app.goo.gl/ohiZs7517bvWCxUMA), Room 5400) School of Public Health and the UC Berkeley/UCSF Joint Medical Program with [Leanna Lewis](https://meded.ucsf.edu/current-students/education-programs/prime-us-program/about-prime-us/our-leadership)
 	
 
 W Jul 24
